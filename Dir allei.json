@@ -1,0 +1,22 @@
+{
+  "title": "Dir allei",
+  "artist": "Tabitha Perreten",
+  "slides": [
+    {
+      "id": "a5b6c7d8-e9f0-1234-abcd-ef5678901234",
+      "text": "Du bisch ds Liecht i jeder Dunkelheit\nWeni schwach bi, machsch du mi wieder starch\nDini Hoffnig git neue Läbenssinn\nI dire Gägewart, da wird me frei",
+      "label": "Strophe"
+    },
+    {
+      "id": "a5b6c7d8-e9f0-1234-abcd-ef5678901235",
+      "text": "Du bisch d'Antwort we me nüm witer gseht\nDini Liebi entfacht es Füür i mir",
+      "label": "Pre-Chorus"
+    },
+    {
+      "id": "a5b6c7d8-e9f0-1234-abcd-ef5678901236",
+      "text": "Herr i danke dir, du Chönig vo der Wält\nDini Liebi isch unändlech gross\nDir allei ghört alli Ehr u Macht\nHerr i priise di",
+      "label": "Chorus"
+    }
+  ],
+  "id": "b5c6d7e8-f9a0-1234-bcde-f56789012345"
+}

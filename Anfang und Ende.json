@@ -1,0 +1,27 @@
+{
+  "title": "Anfang und Ende",
+  "artist": "Bene Müller",
+  "slides": [
+    {
+      "id": "c2d3e4f5-a6b7-8901-cdef-234567890123",
+      "text": "Du bist der Schöpfer des Universums\nDu bist der König der Könige\nDu bist der Herr über alle Herren in Ewigkeit",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "c2d3e4f5-a6b7-8901-cdef-234567890124",
+      "text": "Du bist der Anfang und auch das Ende\nDu bist der Gott, der die Herzen kennt\nDu bist der Hirte, der seine Schafe beim Namen nennt",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "c2d3e4f5-a6b7-8901-cdef-234567890125",
+      "text": "Du bist die Hilfe, die nie zu spät kommt\nDu bist der Retter in grosser Not\nDu bist der Vater, der seine Kinder nie verlässt",
+      "label": "Strophe 3"
+    },
+    {
+      "id": "c2d3e4f5-a6b7-8901-cdef-234567890126",
+      "text": "Du hast Worte des ewigen Lebens\nUnd das gibst du den Menschen umsonst\nWer dich sucht, von dem lässt du dich finden\nWeil du die Menschen liebst",
+      "label": "Refrain"
+    }
+  ],
+  "id": "d2e3f4a5-b6c7-8901-def2-345678901234"
+}

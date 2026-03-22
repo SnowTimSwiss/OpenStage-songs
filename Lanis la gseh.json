@@ -1,0 +1,22 @@
+{
+  "title": "Lanis la gseh",
+  "artist": "Jackie",
+  "slides": [
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567812",
+      "text": "I richte my Blick allei uf di\nLuegen ewäg vo däm um mi\nDäm, wo mi plagt, verwirrt u gfange nimmt\nU nach bi dir möcht i geng si",
+      "label": "Strophe"
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567813",
+      "text": "Lanis la gseh\nWas Gott scho alles gmacht het\nLanis la gseh\nSini Wundertat",
+      "label": "Chorus"
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567904",
+      "text": "Mir chöi ihm danke\nFür alles woni ha\nMir chöi ihm danke\nEr isch immer für mi da",
+      "label": "Bridge"
+    }
+  ],
+  "id": "b1c2d3e4-f5a6-7890-bcde-f12345678913"
+}

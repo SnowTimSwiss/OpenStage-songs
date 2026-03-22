@@ -1,0 +1,17 @@
+{
+  "title": "Wunderbar",
+  "artist": "",
+  "slides": [
+    {
+      "id": "737d4736-1732-4d1b-a530-abdc1a1087a1",
+      "text": "Wunderbar, wunderbar\nSind deine Werke, Herr\nWunderbar, wunderbar\nIst deine Liebe",
+      "label": "Strophe"
+    },
+    {
+      "id": "e4f5a6b7-c8d9-0123-ef45-678901234591",
+      "text": "Du hast alles geschaffen\nDu hältst alles in deiner Hand\nDu bist treu in Ewigkeit",
+      "label": "Refrain"
+    }
+  ],
+  "id": "f4a5b6c7-d8e9-0123-f456-789012345691"
+}

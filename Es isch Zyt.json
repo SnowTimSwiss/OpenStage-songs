@@ -1,0 +1,22 @@
+{
+  "title": "Es isch Zyt",
+  "artist": "Simone Dänzer-Zaugg",
+  "slides": [
+    {
+      "id": "c8d9e0f1-a2b3-4567-cdef-890123456789",
+      "text": "S'isch Dy Ruef, wo erklingt mir\nS'isch Dy Stimm, wo mys Härz erweckt\nS'isch Dy Liebi, won i gspüre mir\nEs Dränge, dass nümm angers cha\nAls mys Härz Dir ganz häre z'gäh\nUnd mit Dir wott vorwärts gah",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "c8d9e0f1-a2b3-4567-cdef-890123456790",
+      "text": "Es isch Zyt, üs ufz'mache für Di\nEs isch Zyt, üs Dir ganz häre z'gäh\nEs isch Zyt, dass Du dür üs sichtbar wirsch\nEs isch Zyt, meh u meh Land iiz'näh für Di",
+      "label": "Refrain"
+    },
+    {
+      "id": "c8d9e0f1-a2b3-4567-cdef-890123456791",
+      "text": "S'isch Dy Chraft, wo mi vorwärts trybt\nS'isch Dy Geischt, wo mi zieht zu Dir\nJesus bi Dir bin wirklech dehei\nEs drängt mi, dass nümm angers cha\nAus mys Härz Dir ganz häre z'gäh\nUnd mit Dir wott vorwärts gah",
+      "label": "Strophe 2"
+    }
+  ],
+  "id": "d8e9f0a1-b2c3-4567-def8-901234567890"
+}

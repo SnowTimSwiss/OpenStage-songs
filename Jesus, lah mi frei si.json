@@ -1,0 +1,22 @@
+{
+  "title": "Jesus, lah mi frei si",
+  "artist": "UVB",
+  "slides": [
+    {
+      "id": "c0d1e2f3-a4b5-6789-cdef-012345678912",
+      "text": "Jesus, lah mi frei si\nBefrei Du mis Härz\nLah mi flüge wie en Adler\nTreit vo Dim Wind",
+      "label": "Strophe"
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567903",
+      "text": "Zeig mir de Wäg zu Dir\nDe Wäg zu Dim Härz\nLah mi laufe ohni Ende\nI dinre Spur",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "c0d1e2f3-a4b5-6789-cdef-012345678913",
+      "text": "Mach mi frei\nMach mi frei\nDini Liebi macht mi frei",
+      "label": "Chorus"
+    }
+  ],
+  "id": "d0e1f2a3-b4c5-6789-def0-123456789023"
+}

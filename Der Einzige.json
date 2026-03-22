@@ -1,0 +1,27 @@
+{
+  "title": "Der Einzige",
+  "artist": "Mia Friesen & Stefan Schöpfle",
+  "slides": [
+    {
+      "id": "c4d5e6f7-a8b9-0123-cdef-456789012345",
+      "text": "Heilig bist Du, Herr\nDu bist heilig, Herr\nDu sitzt auf dem Thron\nZu Deinen Füßen fühl ich mich wohl\nKniend vor Deinem Thron",
+      "label": "Verse"
+    },
+    {
+      "id": "c4d5e6f7-a8b9-0123-cdef-456789012346",
+      "text": "Staunend singe ich zu Dir: Du bist heilig\nDeine Herrlichkeit strahlt so schön\nMein Blick habt sich zu Dir\nDu bist heilig\nDeine Schönheit wird nie vergehn",
+      "label": "Chorus"
+    },
+    {
+      "id": "c4d5e6f7-a8b9-0123-cdef-456789012347",
+      "text": "Du bist würdig, Herr\nWürdig bist Du, Herr\nFür alle Zeiten bleibst Du mein Gott\nDu sitzt auf dem Thron\nHerrschend auf Deinem Thron",
+      "label": "Verse 2"
+    },
+    {
+      "id": "c4d5e6f7-a8b9-0123-cdef-456789012348",
+      "text": "Du bist der Einzige, dem dieses Lob gebührt\nHeilig bist du",
+      "label": "Bridge"
+    }
+  ],
+  "id": "d4e5f6a7-b8c9-0123-def4-567890123456"
+}

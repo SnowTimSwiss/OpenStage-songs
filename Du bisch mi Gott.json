@@ -1,0 +1,22 @@
+{
+  "title": "Du bisch mi Gott",
+  "artist": "Beat Wäfler",
+  "slides": [
+    {
+      "id": "a6b7c8d9-e0f1-2345-abcd-ef6789012345",
+      "text": "Du bisch mi Vater, mi Schöpfer u Gott\nI bruche di mi Herr, Tag u Nacht\nDu hesch di Sohn uf die Ärde gschickt für mi u mini Sünd\nDu bisch Vater, Schöpfer, Gott vo derä Wält",
+      "label": "Vers"
+    },
+    {
+      "id": "a6b7c8d9-e0f1-2345-abcd-ef6789012346",
+      "text": "Du bisch mi Gott, stah vor Dir u lobä Di\nI bruche Di, mi Herr, cha nid ohni Di",
+      "label": "Chorus"
+    },
+    {
+      "id": "a6b7c8d9-e0f1-2345-abcd-ef6789012347",
+      "text": "Mir bäte Di a, üse Gott\nMir bäte Di a, üse Vater, üse Gott",
+      "label": "Bridge"
+    }
+  ],
+  "id": "b6c7d8e9-f0a1-2345-bcde-f67890123456"
+}

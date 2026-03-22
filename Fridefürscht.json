@@ -1,0 +1,32 @@
+{
+  "title": "Fridefürscht",
+  "artist": "Cornelia Guida",
+  "slides": [
+    {
+      "id": "a0b1c2d3-e4f5-6789-abcd-ef0123456789",
+      "text": "Du stiusch dr Sturm um üs\nBisch dr Fridefürscht\nAus isch dir müglich Herr\nDa isch Chraft dir",
+      "label": "Verse 1"
+    },
+    {
+      "id": "a0b1c2d3-e4f5-6789-abcd-ef0123456790",
+      "text": "Du hesch dr Tod besiegt\nÜs vor Schuld befreit\nAus um di um erwacht\nWiu du Läbe schaffsch",
+      "label": "Verse 2"
+    },
+    {
+      "id": "a0b1c2d3-e4f5-6789-abcd-ef0123456791",
+      "text": "Mir bruche Di\nWenn nid du üses Huus bousch\nDe boue mir vergäbe\nWenn nid du üse Schmärz treisch\nDe blibe mir hie stah",
+      "label": "Pre-Chorus"
+    },
+    {
+      "id": "a0b1c2d3-e4f5-6789-abcd-ef0123456792",
+      "text": "Di Säge Herr und dini Fröid\nChum zeig du di\nDis Chönigrych isch itze da",
+      "label": "Chorus"
+    },
+    {
+      "id": "a0b1c2d3-e4f5-6789-abcd-ef0123456793",
+      "text": "Nur eis Wort vo dir\nUnd dr Sturm wird stiu\nDe fäuht üs dini Sicht\nDu stiusch was tobt um üs",
+      "label": "Bridge"
+    }
+  ],
+  "id": "b0c1d2e3-f4a5-6789-bcde-f01234567890"
+}

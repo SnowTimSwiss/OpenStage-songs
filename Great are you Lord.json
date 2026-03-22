@@ -1,0 +1,22 @@
+{
+  "title": "Great are you Lord",
+  "artist": "All Sons & Daughters",
+  "slides": [
+    {
+      "id": "a2b3c4d5-e6f7-8901-abcd-ef2345678912",
+      "text": "You give life, You are love\nYou bring light to the darkness\nYou give hope, You restore\nEvery heart that is broken\nGreat are You, Lord",
+      "label": "Verse"
+    },
+    {
+      "id": "a2b3c4d5-e6f7-8901-abcd-ef2345678913",
+      "text": "It's Your breath in our lungs\nSo we pour out our praise\nWe pour out our praise\nIt's Your breath in our lungs\nSo we pour out our praise to You only",
+      "label": "Chorus"
+    },
+    {
+      "id": "a2b3c4d5-e6f7-8901-abcd-ef2345678914",
+      "text": "All the earth will shout Your praise\nOur hearts will cry, these bones will sing\nGreat are You, Lord",
+      "label": "Bridge"
+    }
+  ],
+  "id": "b2c3d4e5-f6a7-8901-bcde-f23456789013"
+}

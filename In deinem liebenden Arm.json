@@ -1,0 +1,22 @@
+{
+  "title": "In deinem liebenden Arm",
+  "artist": "Craig Musseau",
+  "slides": [
+    {
+      "id": "c9d0e1f2-a3b4-5678-cdef-901234567801",
+      "text": "Ich singe dir ein Liebeslied\nDir mein Retter, dir mein Jesus\nDu hast so viel für mich getan\nMein Erlöser, kostbarer Jesus",
+      "label": "Vers"
+    },
+    {
+      "id": "c9d0e1f2-a3b4-5678-cdef-901234567802",
+      "text": "Mein Herz ist froh\nDenn du nennst mich ganz dein\nEs gibt keinen Ort wo ich lieber wär",
+      "label": "Pre-Chorus"
+    },
+    {
+      "id": "c9d0e1f2-a3b4-5678-cdef-901234567803",
+      "text": "Als in deinem liebenden Arm\nIn deinem liebenden Arm\nHalte mich fest\nGanz nah bei dir\nIn deinem Arm",
+      "label": "Chorus"
+    }
+  ],
+  "id": "d9e0f1a2-b3c4-5678-def9-012345678912"
+}

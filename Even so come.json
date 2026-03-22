@@ -1,0 +1,32 @@
+{
+  "title": "Even so come",
+  "artist": "Chris Tomlin",
+  "slides": [
+    {
+      "id": "e8f9a0b1-c2d3-4567-ef89-012345678901",
+      "text": "All of creation\nAll of the earth\nMake straight a highway\nA path for the Lord\nJesus is coming soon",
+      "label": "Verse 1"
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567894",
+      "text": "Call back the sinner\nWake up the saint\nLet every nation\nShout of Your fame\nJesus is coming soon",
+      "label": "Verse 2"
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567895",
+      "text": "Like a bride\nWaiting for her groom\nWe'll be a church\nReady for You\nEvery heart longing for our King\nWe sing\nEven so come\nLord Jesus come",
+      "label": "Chorus"
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567896",
+      "text": "There will be justice\nAll will be new\nYour name forever\nFaithful and true\nJesus is coming soon",
+      "label": "Verse 3"
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567897",
+      "text": "So we wait\nWe wait for You\nGod we wait\nYou're coming soon",
+      "label": "Bridge"
+    }
+  ],
+  "id": "f8a9b0c1-d2e3-4567-f890-123456789012"
+}

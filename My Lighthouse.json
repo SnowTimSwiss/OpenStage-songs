@@ -1,0 +1,22 @@
+{
+  "title": "My Lighthouse",
+  "artist": "Rend Collective",
+  "slides": [
+    {
+      "id": "a5b6c7d8-e9f0-1234-abcd-ef5678901256",
+      "text": "In my wrestling and in my doubts\nIn my failures, You won't walk out\nYour great love will lead me through\nYou are the peace in my troubled sea",
+      "label": "Verse"
+    },
+    {
+      "id": "a5b6c7d8-e9f0-1234-abcd-ef5678901257",
+      "text": "My Lighthouse, my Lighthouse\nShining in the darkness\nI will follow You\nMy Lighthouse, my Lighthouse\nI will trust the promise\nYou will carry me",
+      "label": "Chorus"
+    },
+    {
+      "id": "c5d6e7f8-a9b0-1234-cdef-567890123456",
+      "text": "In the night when I can't see\nIn the confusion that surrounds me\nI will call out to Your name\nYou're my peace, my shelter in the rain",
+      "label": "Verse 2"
+    }
+  ],
+  "id": "b5c6d7e8-f9a0-1234-bcde-f56789012367"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Mit jedem Atemzug",
+  "artist": "",
+  "slides": [
+    {
+      "id": "a4b5c6d7-e8f9-0123-abcd-ef4567890145",
+      "text": "Mit jedem Atemzug den ich tu\nWill ich dich loben, Herr\nMit jedem Schlag von meinem Herz\nWill ich dir danken",
+      "label": "Strophe"
+    },
+    {
+      "id": "a4b5c6d7-e8f9-0123-abcd-ef4567890146",
+      "text": "Du bist mein Leben\nDu bist mein Alles\nOhne dich bin ich nichts",
+      "label": "Refrain"
+    }
+  ],
+  "id": "b4c5d6e7-f8a9-0123-bcde-f45678901256"
+}

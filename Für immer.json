@@ -1,0 +1,27 @@
+{
+  "title": "Für immer",
+  "artist": "Chris Tomlin",
+  "slides": [
+    {
+      "id": "e0f1a2b3-c4d5-6789-ef01-234567890123",
+      "text": "Mir danke dir, starker Gott\nUnsrem König und Gott\nFrueh hesch du üs befreit\nBis am Abe spat",
+      "label": "Verse 1"
+    },
+    {
+      "id": "e0f1a2b3-c4d5-6789-ef01-234567890124",
+      "text": "Unändlich isch dini Liebi\nUnändlich isch dini Liebi\nUnändlich isch dini Liebi\nDenn du bisch da",
+      "label": "Refrain"
+    },
+    {
+      "id": "e0f1a2b3-c4d5-6789-ef01-234567890125",
+      "text": "Für immer bisch du treu, Herr\nFür immer bisch du starch\nFür immer bisch du mit üs\nFür immer und ewig",
+      "label": "Chorus"
+    },
+    {
+      "id": "e0f1a2b3-c4d5-6789-ef01-234567890126",
+      "text": "Wo gross Wunder tuet\nUnändlich isch dini Liebi\nHesch für üs bereit\nI dinre Gnad",
+      "label": "Verse 2"
+    }
+  ],
+  "id": "f0a1b2c3-d4e5-6789-f012-345678901234"
+}

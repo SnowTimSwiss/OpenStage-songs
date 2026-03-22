@@ -1,0 +1,32 @@
+{
+  "title": "Hosanna",
+  "artist": "Hillsong United",
+  "slides": [
+    {
+      "id": "e4f5a6b7-c8d9-0123-ef45-678901234578",
+      "text": "I see the King of glory\nComing on the clouds with fire\nThe whole earth shakes\nThe whole earth shakes",
+      "label": "Verse 1"
+    },
+    {
+      "id": "e4f5a6b7-c8d9-0123-ef45-678901234579",
+      "text": "I see His love and mercy\nWashing over all our sin\nThe people sing\nThe people sing",
+      "label": "Verse 2"
+    },
+    {
+      "id": "e4f5a6b7-c8d9-0123-ef45-678901234580",
+      "text": "Hosanna\nHosanna\nHosanna in the highest",
+      "label": "Chorus"
+    },
+    {
+      "id": "e4f5a6b7-c8d9-0123-ef45-678901234581",
+      "text": "I see a generation\nRising up to take their place\nWith selfless faith\nWith selfless faith",
+      "label": "Verse 3"
+    },
+    {
+      "id": "e4f5a6b7-c8d9-0123-ef45-678901234582",
+      "text": "Heal my heart and make it clean\nOpen up my eyes to the things unseen\nShow me how to love like You have loved me\nBreak my heart for what breaks Yours\nEverything I am for Your kingdom's cause\nAs I walk from earth into eternity",
+      "label": "Bridge"
+    }
+  ],
+  "id": "f4a5b6c7-d8e9-0123-f456-789012345689"
+}

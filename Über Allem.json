@@ -1,0 +1,17 @@
+{
+  "title": "Über Allem",
+  "artist": "",
+  "slides": [
+    {
+      "id": "a7b8c9d0-e1f2-3456-abcd-ef7890123489",
+      "text": "Über allem, über allem\nSteht dein Name, Herr\nÜber allem, über allem\nBist du König",
+      "label": "Strophe"
+    },
+    {
+      "id": "a7b8c9d0-e1f2-3456-abcd-ef7890123490",
+      "text": "Hoch erhöht, hoch erhöht\nBist du über alles\nHoch erhöht, hoch erhöht\nFür immer und ewig",
+      "label": "Refrain"
+    }
+  ],
+  "id": "b7c8d9e0-f1a2-3456-bcde-f78901234590"
+}

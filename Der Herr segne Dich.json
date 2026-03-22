@@ -1,0 +1,32 @@
+{
+  "title": "Der Herr segne Dich",
+  "artist": "",
+  "slides": [
+    {
+      "id": "e4f5a6b7-c8d9-0123-ef45-678901234567",
+      "text": "Der Herr segne dich und behüte dich\nLass sein Angesicht leuchten und sei gnädig mit dir\nSein Angesicht sei dir zugewandt\nFriede mit dir",
+      "label": "Vers"
+    },
+    {
+      "id": "e4f5a6b7-c8d9-0123-ef45-678901234568",
+      "text": "Amen, Amen, Amen",
+      "label": "Chorus"
+    },
+    {
+      "id": "e4f5a6b7-c8d9-0123-ef45-678901234569",
+      "text": "Seine Gunst sei immer auf dir\nUnd auf tausend derer nach dir\nAuf den Kindern deiner Kinder\nUnd den Kindern ihrer Kinder",
+      "label": "Bridge"
+    },
+    {
+      "id": "e4f5a6b7-c8d9-0123-ef45-678901234570",
+      "text": "Der Herr selbst sei immer mit dir\nGehe vor dir und auch nach dir\nEr sei um dich und durchdring dich\nEr ist mit dir, Er ist mit dir",
+      "label": "Bridge 2"
+    },
+    {
+      "id": "e4f5a6b7-c8d9-0123-ef45-678901234571",
+      "text": "Jeden Morgen, jeden Abend\nWenn du kommst und wenn du gehst\nWenn du weinst und wenn du jubelst\nEr ist für dich, Er ist für dich",
+      "label": "Bridge 3"
+    }
+  ],
+  "id": "f4a5b6c7-d8e9-0123-f456-789012345678"
+}

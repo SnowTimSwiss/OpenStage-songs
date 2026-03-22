@@ -1,0 +1,27 @@
+{
+  "title": "Jesus Son of God",
+  "artist": "Chris Tomlin",
+  "slides": [
+    {
+      "id": "e9f0a1b2-c3d4-5678-ef90-123456789023",
+      "text": "You came down from heaven's throne\nThis earth You formed was not Your home\nA love like this the world had never known\nA crown of thorns to mock Your name\nForgiveness fell upon Your face\nA love like this the world had never known",
+      "label": "Verse 1"
+    },
+    {
+      "id": "e9f0a1b2-c3d4-5678-ef90-123456789024",
+      "text": "On the altar of our praise\nLet there be no higher name\nJesus, Son of God\nYou laid down Your perfect life\nYou are the sacrifice\nJesus, Son of God",
+      "label": "Chorus"
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567892",
+      "text": "You took our sin\nYou bore our shame\nYou rose to life\nYou defeated the grave\nA love like this the world has never known",
+      "label": "Verse 2"
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567893",
+      "text": "Be lifted higher than all You've overcome\nYour name be louder than any other song\nThere is no power that can come against Your love\nThe cross was enough",
+      "label": "Bridge"
+    }
+  ],
+  "id": "f9a0b1c2-d3e4-5678-f901-234567890134"
+}

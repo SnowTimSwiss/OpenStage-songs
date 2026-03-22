@@ -1,0 +1,22 @@
+{
+  "title": "Dy Liebi isch töif",
+  "artist": "worship@clz.ch",
+  "slides": [
+    {
+      "id": "a7b8c9d0-e1f2-3456-abcd-ef7890123456",
+      "text": "Dy Liebi isch töif, dy Liebi isch höch\nDy Liebi isch wyt, dy Liebi isch nach\nDy Liebi isch töif, dy Liebi isch höch\nDy Liebi isch nach",
+      "label": "Verse"
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567899",
+      "text": "Töifer als i je ha dänkt\nHöcher als mys Wüsse längt\nWiter als i gseh ha\nIsch dini Liebi zu mir",
+      "label": "Strophe"
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567900",
+      "text": "Dy Liebi isch töif wie s Meer\nDy Liebi isch töif wie s Meer\nDy Liebi isch töif wie s Meer\nU treit mi wi ne Muetter iri Chind",
+      "label": "Chorus"
+    }
+  ],
+  "id": "b7c8d9e0-f1a2-3456-bcde-f78901234567"
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Dänk i a di",
+  "artist": "",
+  "slides": [
+    {
+      "id": "c7d8e9f0-a1b2-3456-cdef-789012345678",
+      "text": "Dänk i a di, chum i is Schwärmä\nDir cha i d'Härz erwärme\nDu bisch mis Liecht a dunkle Tage\nNimmsch alli Sorge wo mi plage",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "c7d8e9f0-a1b2-3456-cdef-789012345679",
+      "text": "Du bisch mi Sunne wo geng schiint\nBisch mi Herr, wo nie versait\nBisch mi Fründ in Ewigkeit",
+      "label": "Pre-Chorus"
+    },
+    {
+      "id": "c7d8e9f0-a1b2-3456-cdef-789012345680",
+      "text": "La-la-la-la-la, la-la-la-la-la\nLue-di-bi-da",
+      "label": "Chorus"
+    },
+    {
+      "id": "c7d8e9f0-a1b2-3456-cdef-789012345681",
+      "text": "Dänk i a di, chum i is Stuune\nÖpper wie du wott i mir wohne\nDu seisch für geng wosch bi mir blibe\nUm so ne Fründ chame mi benide",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "c7d8e9f0-a1b2-3456-cdef-789012345682",
+      "text": "Du gisch Liebi, womi heilt\nDu gisch Freud, wo mi befreit\nBisch mi Fründ in Ewigkeit",
+      "label": "Pre-Chorus 2"
+    },
+    {
+      "id": "c7d8e9f0-a1b2-3456-cdef-789012345683",
+      "text": "Sids du hesch kei Angscht vor minä Schwächine\nLeni 'Äa' gloubsch au so wie ni bi\nSandy gits, dasi tiet mir guet\nLeni bis Nachsi macht mir Muet",
+      "label": "Bridge"
+    }
+  ],
+  "id": "d7e8f9a0-b1c2-3456-def7-890123456789"
+}

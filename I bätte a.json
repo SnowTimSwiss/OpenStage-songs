@@ -1,0 +1,22 @@
+{
+  "title": "I bätte a",
+  "artist": "David Ruis",
+  "slides": [
+    {
+      "id": "a6b7c8d9-e0f1-2345-abcd-ef6789012356",
+      "text": "I wott priise mit all mire Chraft\nI wott singe so lut wini cha\nI wott Di sueche jede Tag nöi\nI wott laufe wohi Du mi füersch",
+      "label": "Strophe"
+    },
+    {
+      "id": "a6b7c8d9-e0f1-2345-abcd-ef6789012357",
+      "text": "I bätte a vo ganzem Härze\nI gibe alles woni ha\nDir allei wott i z'priise\nWiu Du allei würdig bisch o Herr",
+      "label": "Refrain"
+    },
+    {
+      "id": "a6b7c8d9-e0f1-2345-abcd-ef6789012358",
+      "text": "I wott uf d'Chnöi ga\nMi Chönig bisch Du\nI wott Dir diene\nAlles tue wo Du wosch",
+      "label": "Bridge"
+    }
+  ],
+  "id": "b6c7d8e9-f0a1-2345-bcde-f67890123467"
+}

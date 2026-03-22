@@ -1,0 +1,22 @@
+{
+  "title": "Herr, deine Gnade",
+  "artist": "David Ruis",
+  "slides": [
+    {
+      "id": "a4b5c6d7-e8f9-0123-abcd-ef4567890134",
+      "text": "Herr, Deine Gnade, sie fällt auf mein Leben\nSo wie der Regen im Frühling fällt\nHerr, Deine Gnade, sie fließt und durchdringt mich ganz\nOh, oh, Du schenkst mir Gnade und Barmherzigkeit",
+      "label": "Verse 1"
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567902",
+      "text": "Herr, Deine Liebe ist wie Gras und Ufer\nDie den Fluss im Frühling hält\nHerr, Deine Liebe, sie deckt mich zu\nWie ein Schild, der mich beschützt",
+      "label": "Verse 2"
+    },
+    {
+      "id": "a4b5c6d7-e8f9-0123-abcd-ef4567890135",
+      "text": "Oh, oh, ich will tanzen, Herr, vor Dir\nHey, hey, hey, hey\nOh, oh, ich will springen, Herr, vor Dir\nHey, hey, hey, hey",
+      "label": "Chorus"
+    }
+  ],
+  "id": "b4c5d6e7-f8a9-0123-bcde-f45678901245"
+}

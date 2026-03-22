@@ -1,0 +1,22 @@
+{
+  "title": "Chum jitz isch es Zit",
+  "artist": "Brian Doerksen",
+  "slides": [
+    {
+      "id": "a4b5c6d7-e8f9-0123-abcd-ef4567890123",
+      "text": "Chum, jitz isch es Zit Gott z'priise\nChum, jitz isch es Zit Ihm z'Härz uftue",
+      "label": "Strophe"
+    },
+    {
+      "id": "a4b5c6d7-e8f9-0123-abcd-ef4567890124",
+      "text": "Chum, so wi du bisch und pris Ihn\nChum, so wi du bisch vor Gott di Herr",
+      "label": "Refrain"
+    },
+    {
+      "id": "a4b5c6d7-e8f9-0123-abcd-ef4567890125",
+      "text": "Jede wird sech böige vor Dir\nZ'allergröschte Gschänk isch für dä parat\nWo ja zu Jesus seit",
+      "label": "Bridge"
+    }
+  ],
+  "id": "b4c5d6e7-f8a9-0123-bcde-f45678901234"
+}

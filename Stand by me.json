@@ -1,0 +1,22 @@
+{
+  "title": "Stand by me",
+  "artist": "Ben E. King",
+  "slides": [
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567823",
+      "text": "When the night has come\nAnd the land is dark\nAnd the moon is the only light we'll see\nNo I won't be afraid\nNo I won't be afraid\nJust as long as you stand, stand by me",
+      "label": "Verse 1"
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567824",
+      "text": "So darling, darling\nStand by me, oh stand by me\nOh stand, stand by me\nStand by me",
+      "label": "Chorus"
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567825",
+      "text": "If the sky that we look upon\nShould tumble and fall\nAnd the mountain should crumble to the sea\nI won't cry, I won't cry\nNo I won't shed a tear\nJust as long as you stand, stand by me",
+      "label": "Verse 2"
+    }
+  ],
+  "id": "b1c2d3e4-f5a6-7890-bcde-f12345678924"
+}

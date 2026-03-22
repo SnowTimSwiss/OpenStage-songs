@@ -1,0 +1,22 @@
+{
+  "title": "Get up",
+  "artist": "Planetshakers",
+  "slides": [
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567801",
+      "text": "With every breath that I take\nI'll praise You\nWith every move that I make\nI'll praise You\nWith everything that I am\nI'll praise You\n'Cause there is no other way",
+      "label": "Verse 1"
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567802",
+      "text": "Everybody get up if you love Him\nEverybody get up, get up and praise Him\nEverybody get up if you're free and\nGive Him the praise",
+      "label": "Chorus"
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567803",
+      "text": "You, You\nEverything is all for You, You\nWe're living each day for You, You\nEverything is all for You, You",
+      "label": "Bridge"
+    }
+  ],
+  "id": "b1c2d3e4-f5a6-7890-bcde-f12345678902"
+}

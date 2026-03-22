@@ -1,0 +1,22 @@
+{
+  "title": "Everyday",
+  "artist": "Hillsong",
+  "slides": [
+    {
+      "id": "c9d0e1f2-a3b4-5678-cdef-901234567890",
+      "text": "What's to say Lord it's You gave me life\nCan't explain just how much You mean to me now\nThat You have saved me Lord\nI give that all I am to You\nThat everyday would be a light and shine Your name",
+      "label": "Verse 1"
+    },
+    {
+      "id": "c9d0e1f2-a3b4-5678-cdef-901234567891",
+      "text": "Everyday, it's You I live for\nEveryday, I'll follow after You\nEveryday, I'll walk with You my Lord",
+      "label": "Chorus"
+    },
+    {
+      "id": "c9d0e1f2-a3b4-5678-cdef-901234567892",
+      "text": "Everyday Lord I'll learn to stand upon Your Word\nAnd pray that I might come to know You more\nThat You would guide me in every single step I take\nThat everyday can be a light unto Your world",
+      "label": "Verse 2"
+    }
+  ],
+  "id": "d9e0f1a2-b3c4-5678-def9-012345678901"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Abba Father",
+  "artist": "Planetshakers",
+  "slides": [
+    {
+      "id": "c1d2e3f4-a5b6-7890-cdef-123456789012",
+      "text": "How great is Your love for me\nThat You gave up Your son for me\nNow I am alive and free\nFather I love You, Father I love You",
+      "label": "Verse 1"
+    },
+    {
+      "id": "c1d2e3f4-a5b6-7890-cdef-123456789013",
+      "text": "Your love made a way for me\nAnd into me You see\nYou love every part of me\nFather You love me, Father You love me",
+      "label": "Verse 2"
+    },
+    {
+      "id": "c1d2e3f4-a5b6-7890-cdef-123456789014",
+      "text": "Oh, the love of my Father\nIs deeper than any love I know\nOh, the grace that He shows me\nHis love overwhelming, this I know\nThe love of my Father",
+      "label": "Chorus"
+    },
+    {
+      "id": "c1d2e3f4-a5b6-7890-cdef-123456789015",
+      "text": "Abba Father, Your love is never ending\nThere's no other love like Yours\nIn Your presence, my heart is overflowing\nFather I am Yours",
+      "label": "Bridge"
+    }
+  ],
+  "id": "d1e2f3a4-b5c6-7890-def1-234567890123"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Leave me Astounded",
+  "artist": "Hillsong",
+  "slides": [
+    {
+      "id": "c1d2e3f4-a5b6-7890-cdef-123456789034",
+      "text": "My heart is in Your hands\nMy soul You have redeemed\nYour love has set me free\nTo live for You alone",
+      "label": "Verse"
+    },
+    {
+      "id": "c1d2e3f4-a5b6-7890-cdef-123456789035",
+      "text": "Leave me astounded\nLeave me astounded\nBy Your grace\nLeave me astounded",
+      "label": "Chorus"
+    }
+  ],
+  "id": "d1e2f3a4-b5c6-7890-def1-234567890145"
+}

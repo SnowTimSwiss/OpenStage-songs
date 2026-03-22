@@ -1,0 +1,17 @@
+{
+  "title": "Para ti",
+  "artist": "",
+  "slides": [
+    {
+      "id": "2ea5eab8-aed1-4991-bcd0-b401fd9e589e",
+      "text": "Para ti, para ti\nTodo es para ti, Señor\nPara ti, para ti\nLa gloria es para ti",
+      "label": "Chorus"
+    },
+    {
+      "id": "c8d9e0f1-a2b3-4567-cdef-890123456792",
+      "text": "Recibe nuestra alabanza\nRecibe nuestro honor\nToda rodilla se doble\nY confiese que Tú eres Dios",
+      "label": "Verse"
+    }
+  ],
+  "id": "d8e9f0a1-b2c3-4567-def8-901234567812"
+}

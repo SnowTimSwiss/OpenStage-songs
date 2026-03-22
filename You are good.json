@@ -1,0 +1,17 @@
+{
+  "title": "You are good",
+  "artist": "",
+  "slides": [
+    {
+      "id": "a6b7c8d9-e0f1-2345-abcd-ef6789012378",
+      "text": "You are good, You are good\nThere is none like You\nYou are good, You are good\nAnd Your mercy endures forever",
+      "label": "Chorus"
+    },
+    {
+      "id": "a6b7c8d9-e0f1-2345-abcd-ef6789012379",
+      "text": "You have done great things\nYou have done mighty things\nYou have healed the broken\nAnd set the captives free",
+      "label": "Verse"
+    }
+  ],
+  "id": "b6c7d8e9-f0a1-2345-bcde-f67890123489"
+}

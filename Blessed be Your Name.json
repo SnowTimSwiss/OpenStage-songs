@@ -1,0 +1,42 @@
+{
+  "title": "Blessed be Your Name",
+  "artist": "Newsboys",
+  "slides": [
+    {
+      "id": "a3b4c5d6-e7f8-9012-abcd-ef3456789012",
+      "text": "Blessed be Your name\nIn the land that is plentiful\nWhere your streams of abundance flow\nBlessed be Your name",
+      "label": "Verse 1"
+    },
+    {
+      "id": "a3b4c5d6-e7f8-9012-abcd-ef3456789013",
+      "text": "And blessed be Your name\nWhen I'm found in the desert place\nThough I walk through the wilderness\nBlessed be Your name",
+      "label": "Verse 2"
+    },
+    {
+      "id": "a3b4c5d6-e7f8-9012-abcd-ef3456789014",
+      "text": "Every blessing You pour out\nI'll turn back to praise\nWhen the darkness closes in, Lord\nStill I will say",
+      "label": "Pre-Chorus"
+    },
+    {
+      "id": "a3b4c5d6-e7f8-9012-abcd-ef3456789015",
+      "text": "Blessed be the name of the Lord\nBlessed be Your name\nBlessed be the name of the Lord\nBlessed be Your glorious name",
+      "label": "Chorus"
+    },
+    {
+      "id": "a3b4c5d6-e7f8-9012-abcd-ef3456789016",
+      "text": "And blessed be Your name\nWhen the sun's shining down on me\nWhen the world's all as it should be\nBlessed be Your name",
+      "label": "Verse 3"
+    },
+    {
+      "id": "a3b4c5d6-e7f8-9012-abcd-ef3456789017",
+      "text": "And blessed be Your name\nOn the road marked with suffering\nThough there's pain in the offering\nBlessed be Your name",
+      "label": "Verse 4"
+    },
+    {
+      "id": "a3b4c5d6-e7f8-9012-abcd-ef3456789018",
+      "text": "You give and take away\nYou give and take away\nMy heart will choose to say\nLord, blessed be Your name",
+      "label": "Bridge"
+    }
+  ],
+  "id": "b3c4d5e6-f7a8-9012-bcde-f34567890123"
+}

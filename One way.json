@@ -1,0 +1,17 @@
+{
+  "title": "One way",
+  "artist": "Jesus Culture",
+  "slides": [
+    {
+      "id": "aea26771-8b3c-4968-8faf-fff725bfd1a7",
+      "text": "One way, one way\nJesus, You're the one way\nTo the Father, to the Father",
+      "label": "Chorus"
+    },
+    {
+      "id": "c7d8e9f0-a1b2-3456-cdef-789012345691",
+      "text": "There is no other name\nThere is no other way\nJesus, You're the one way home",
+      "label": "Verse"
+    }
+  ],
+  "id": "d7e8f9a0-b1c2-3456-def7-890123456791"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Elohim, Gott isch de Schöpfer",
+  "artist": "Markus Dolder",
+  "slides": [
+    {
+      "id": "e7f8a9b0-c1d2-3456-ef78-901234567890",
+      "text": "Elohim, Gott isch de Schöpfer\nEl Shaddai, der gross Gott\nAdonai, Gottes Sohn\nJahwe, Herr, nu er\nIm sim Name händ mir allziit de Sieg",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "e7f8a9b0-c1d2-3456-ef78-901234567891",
+      "text": "Starche Gott, mächtig isch Gott\nGrosser Held und Friedefürscht\nHerrscher, Retter, lebigs Wort\nGott isch mit eus",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "e7f8a9b0-c1d2-3456-ef78-901234567892",
+      "text": "An drei Name, wo so mächtig isch\nKenne mir nid\nJesus, nur dim Name ghört\nAbättig, Lob und Ehr\nDu bisch König, du bisch euse Herr",
+      "label": "Bridge"
+    }
+  ],
+  "id": "f7a8b9c0-d1e2-3456-f789-012345678901"
+}

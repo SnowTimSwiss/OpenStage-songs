@@ -1,0 +1,22 @@
+{
+  "title": "Unser Vater",
+  "artist": "",
+  "slides": [
+    {
+      "id": "e1f2a3b4-c5d6-7890-ef12-345678901267",
+      "text": "Unser Vater im Himmel\nGeheiligt werde dein Name\nDein Reich komme\nDein Wille geschehe",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "e1f2a3b4-c5d6-7890-ef12-345678901268",
+      "text": "Unser tägliches Brot gib uns heute\nUnd vergib uns unsere Schuld\nWie auch wir vergeben unseren Schuldigern\nUnd führe uns nicht in Versuchung",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "e1f2a3b4-c5d6-7890-ef12-345678901269",
+      "text": "Denn dein ist das Reich\nUnd die Kraft und die Herrlichkeit\nIn Ewigkeit\nAmen",
+      "label": "Doxologie"
+    }
+  ],
+  "id": "f1a2b3c4-d5e6-7890-f123-456789012368"
+}

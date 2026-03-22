@@ -1,0 +1,22 @@
+{
+  "title": "Ich habe Sehnsucht nach dir",
+  "artist": "",
+  "slides": [
+    {
+      "id": "a8b9c0d1-e2f3-4567-abcd-ef8901234578",
+      "text": "Ich habe Sehnsucht nach Dir\nMeinem Vater mit den Bäumen\nMit den Sternen\nIch bin verloren in mir",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "a8b9c0d1-e2f3-4567-abcd-ef8901234579",
+      "text": "Ich habe Hunger und Durst\nIch habe Heimweh nach Dir\nAuf meiner Bahn will ich Dich\nKennen",
+      "label": "Refrain"
+    },
+    {
+      "id": "a8b9c0d1-e2f3-4567-abcd-ef8901234580",
+      "text": "Oh mein Vater, mein Erbarmer\nMein Zuhause, Du mein Gott\nWie ein Siegel leg mich an Dein Herz",
+      "label": "Bridge"
+    }
+  ],
+  "id": "b8c9d0e1-f2a3-4567-bcde-f89012345689"
+}

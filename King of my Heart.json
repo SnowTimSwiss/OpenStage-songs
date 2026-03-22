@@ -1,0 +1,17 @@
+{
+  "title": "King of my Heart",
+  "artist": "Bethel Music",
+  "slides": [
+    {
+      "id": "e0f1a2b3-c4d5-6789-ef01-234567890134",
+      "text": "All I am is for Your kingdom\nAll I am is for Your glory\nAll I am is for Your purpose\nKing of my heart",
+      "label": "Verse"
+    },
+    {
+      "id": "e0f1a2b3-c4d5-6789-ef01-234567890135",
+      "text": "You are good, You are good\nWhen there's nothing good in me\nYou are love, You are love\nOn display for all to see",
+      "label": "Chorus"
+    }
+  ],
+  "id": "f0a1b2c3-d4e5-6789-f012-345678901245"
+}

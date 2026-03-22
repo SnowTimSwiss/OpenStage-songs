@@ -1,0 +1,22 @@
+{
+  "title": "Zieh mi",
+  "artist": "Ozwöi",
+  "slides": [
+    {
+      "id": "34937a64-a912-4176-b6ea-b41a405abce2",
+      "text": "Du bisch my Gott\nDu bisch my Fründ\nDu bisch my Retter\nU vergisch my Sünd",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "e883e553-7bd9-4d8b-8f0b-215833634ac9",
+      "text": "Du bisch my Herr\nDu bisch my Hirt\nDu bisch my Chönig\nWo alles regiert",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567901",
+      "text": "Zieh mi, zieh mi\nNöcher zu dir\nZieh mi, zieh mi\nI will follow You",
+      "label": "Chorus"
+    }
+  ],
+  "id": "42730499-8e72-464a-8db1-d4fd3ff118af"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Ich will dich anbeten",
+  "artist": "Tim Hughes",
+  "slides": [
+    {
+      "id": "a9b0c1d2-e3f4-5678-abcd-ef9012345689",
+      "text": "Licht dieser Welt, du strahlst in unsrer Nacht auf\nLeuchtest den Weg, lässt mich sehn\nHerr, deine Schönheit lässt mich anbeten\nEwig werd ich vor dir stehn",
+      "label": "Verse 1"
+    },
+    {
+      "id": "a9b0c1d2-e3f4-5678-abcd-ef9012345690",
+      "text": "Ich will dich anbeten, will mich vor dir beugen\nWill dir sagen: Du nur bist mein Gott\nDenn du allein bist herrlich, du allein bist würdig\nDu nur bist vollkommen gut zu mir",
+      "label": "Chorus"
+    },
+    {
+      "id": "a9b0c1d2-e3f4-5678-abcd-ef9012345691",
+      "text": "Herr aller Zeiten, du bist hoch erhaben\nHerrlich im Himmel erhöht\nDoch voller Demut kamst du auf die Erde\nZeigst, worin Liebe besteht",
+      "label": "Verse 2"
+    },
+    {
+      "id": "a9b0c1d2-e3f4-5678-abcd-ef9012345692",
+      "text": "Herr, nie begreife ich die Last\nDie du am Kreuz getragen hast",
+      "label": "Bridge"
+    }
+  ],
+  "id": "b9c0d1e2-f3a4-5678-bcde-f90123456790"
+}

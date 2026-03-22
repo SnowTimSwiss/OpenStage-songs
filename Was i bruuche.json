@@ -1,0 +1,17 @@
+{
+  "title": "Was i bruuche",
+  "artist": "",
+  "slides": [
+    {
+      "id": "a3b4c5d6-e7f8-9012-abcd-ef3456789045",
+      "text": "Was i bruuche bisch du\nWas i sueche bisch du\nWas i will bisch du\nJesus, du allein",
+      "label": "Strophe"
+    },
+    {
+      "id": "a3b4c5d6-e7f8-9012-abcd-ef3456789046",
+      "text": "Du bisch alles für mi\nDu bisch gnueg für mi\nDu bisch alles für mi\nJesus, du allein",
+      "label": "Refrain"
+    }
+  ],
+  "id": "b3c4d5e6-f7a8-9012-bcde-f34567890156"
+}

@@ -1,0 +1,32 @@
+{
+  "title": "All day",
+  "artist": "",
+  "slides": [
+    {
+      "id": "e1f2a3b4-c5d6-7890-ef12-345678901234",
+      "text": "I don't care what they say about me\nIt's alright, alright\nI don't care what they think about me\nIt's alright, they'll get it one day",
+      "label": "Verse 1"
+    },
+    {
+      "id": "e1f2a3b4-c5d6-7890-ef12-345678901235",
+      "text": "I love you, I'll follow you\nYou are my, my life\nI will read my bible and pray\nI will follow you all day",
+      "label": "Pre-Chorus"
+    },
+    {
+      "id": "e1f2a3b4-c5d6-7890-ef12-345678901236",
+      "text": "All Day\nAll Day now\nAll Day",
+      "label": "Chorus"
+    },
+    {
+      "id": "e1f2a3b4-c5d6-7890-ef12-345678901237",
+      "text": "I don't care what it costs anymore\nCos you gave it all and I'm following you\nI don't care what it takes anymore\nNo matter what happens I'm going your way",
+      "label": "Verse 2"
+    },
+    {
+      "id": "e1f2a3b4-c5d6-7890-ef12-345678901238",
+      "text": "Anyone around can see\nJust how good you've been to me\nFor all my friends that don't know you\nI pray that you would save them too",
+      "label": "Bridge"
+    }
+  ],
+  "id": "f1a2b3c4-d5e6-7890-f123-456789012345"
+}
