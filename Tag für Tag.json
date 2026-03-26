@@ -1,0 +1,22 @@
+{
+  "title": "Tag für Tag",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Tag für Tag hei mir gnue z'Ässe,\nund es isch so schnäll vergäsä,\nDass es nid für all so isch,\ndass si gnue hei uf em Tisch.",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Bitte Gott sorg ou für sii,\nund ja, mir häufe ou der bii.",
+      "label": "Bridge"
+    },
+    {
+      "id": "slide-03",
+      "text": "Danke z sägä dr Natur\nUnd em Gärtner und em Puur,\nÖpper machts ja ou parat\nUnd danke Gott wos wachse laat.",
+      "label": "Strophe 2"
+    }
+  ],
+  "id": "tag-fuer-tag-001"
+}

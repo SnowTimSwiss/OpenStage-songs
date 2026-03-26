@@ -1,0 +1,32 @@
+{
+  "title": "Eifach super",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Eifach super, chumm mir tanzä.\nEifach super, chumm mir tanzä.\nEifach super, chumm mir lobä Gott dr Herr.",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Eifach super, chumm mir stampfä.\nEifach super, chumm mir stampfä.\nEifach super, chumm mir lobä Gott dr Herr.",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "slide-03",
+      "text": "Eifach super, chumm mir hüpfä.\nEifach super, chumm mir hüpfä.\nEifach super, chumm mir lobä Gott dr Herr.",
+      "label": "Strophe 3"
+    },
+    {
+      "id": "slide-04",
+      "text": "Eifach super, chumm mir chlatschä.\nEifach super, chumm mir chlatschä.\nEifach super, chumm mir lobä Gott dr Herr.",
+      "label": "Strophe 4"
+    },
+    {
+      "id": "slide-05",
+      "text": "Eifach super, dass du da bisch.\nEifach super, dass du da bisch.\nEifach super, dass du da bisch.",
+      "label": "Strophe 5"
+    }
+  ],
+  "id": "eifach-super-001"
+}

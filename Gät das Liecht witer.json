@@ -1,0 +1,22 @@
+{
+  "title": "Gät das Liecht witer",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Gät das Liecht witer, das mä d'Wermi gspürt.\nGät das Liecht witer, zu däm Mönsch wo frürt.\nGät das Liecht witer, lueget nid numä zuä,\nWüu fürä Fridä cha mä doch öpis tuä.",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Gät das Liecht witer, machet aui mit.\nGät das Liecht witer, tüät dr erscht Schritt.\nGät das Liecht witer, so wis jedä cha,\nWo du äs Liecht bringsch, faht dr Fridä gli a.",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "slide-03",
+      "text": "Ja züntet äs Liächt a i eunä Gmeinde, wo brönnt für i Wäut, für diä Zit.\nJa züntet äs Liecht a i eunä Gmeinde, wo brönnt für di Wäut u ewig blibt.",
+      "label": "Refrain"
+    }
+  ],
+  "id": "gaet-das-liecht-witer-001"
+}

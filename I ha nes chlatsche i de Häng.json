@@ -1,0 +1,22 @@
+{
+  "title": "I ha nes chlatsche i de Häng",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "I ha nes chlatsche i de Häng……\nI ha nes schnippe i de Finger……\nI ha nes gumpä i de Bei……\nI ha nes jutze i mim Muu……",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "I ha ne Fröid i mim Härz…..\nI ha ne Fröid i mim Härz\nI ha ne Fröid i mim Härz\nI ha ne Fröid i mim Härz\nSisch wäge Jesus",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-03",
+      "text": "I ha ne Fröid i mim Härz\nI ha ne Fröid i mim Härz\nI ha ne Fröid i mim Härz\nSisch wäge dir",
+      "label": "Refrain 2"
+    }
+  ],
+  "id": "i-ha-nes-chlatsche-001"
+}

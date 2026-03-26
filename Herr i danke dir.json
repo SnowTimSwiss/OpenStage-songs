@@ -1,0 +1,17 @@
+{
+  "title": "Herr i danke dir",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Herr i dankä dir, denn du bisch so guet zu mir.\nDini Gnad, dini Liebi het keis Änd.",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Herr i dankä dir, denn du bisch so guet zu mir.\nDrum nim mi ganz für di und bruch mi für dis Rich la\nd'Mönschä gseh du bisch no där glich.",
+      "label": "Strophe 2"
+    }
+  ],
+  "id": "herr-i-danke-dir-001"
+}

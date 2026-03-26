@@ -1,0 +1,22 @@
+{
+  "title": "Du hesch mi treit",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Du hesch mi treit, mi Gott. Du hesch mi no nie, no würklech nie verlah.",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Du hesch versproche, mi Gott du sigsch immer, immer, immer für mi da.",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "slide-03",
+      "text": "U wenn ig fasch vor Chummer nüme mah, bisch bi mir, mi Gott, a jedem nöie Tag.",
+      "label": "Refrain"
+    }
+  ],
+  "id": "du-hesch-mi-treit-001"
+}

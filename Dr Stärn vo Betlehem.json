@@ -1,0 +1,22 @@
+{
+  "title": "Dr Stärn vo Betlehem",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Das isch dr Stärn vo Bethlehem.\nMached öich uf u folgäd däm!\nÄs isch de auer schönschti Stärn.\nChömed dir Lüt vo nah und färn,\nChömed dir Lüt vo nah und färn.",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Zum Heiland füehrät dä Stärn üs hii,\nDrum fouged aui, gross und chlii!\nÄr ligt im Crippli arm und blass.\nAber är wird ä Chünig gross,\naber är wird ä Chünig gross.",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "slide-03",
+      "text": "Lobed und danked üsäm Stärn,\nFouged ihm nah und fouged gärn!\nEinisch da winkt är üs u treit\nÜber-ä-üs id Ewigkeit,\nÜber-ä-üs id Ewigkeit!",
+      "label": "Strophe 3"
+    }
+  ],
+  "id": "dr-staern-vo-betlehem-001"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Jesus dini Liebi isch so unändläch gross",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Jesus dini Liebi isch so unändläch gross.\nWi lieb, wi lieb muäsch du mi ha.\nI stah da u stunä bloss u bättä di a.\nI bättä di mi Jesus a.",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "A mirä Steu hesch du äs Lidä uf di gnoh.\nA mirä Steu hesch dini Häng dürbohrä lah.\nA mirä Steu hesch mini Sündä uf di gnoh.\nA mirä Steu hesch du dis eignä Läbä glah.",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "slide-03",
+      "text": "A mirä Steu",
+      "label": "Refrain"
+    }
+  ],
+  "id": "jesus-dini-liebi-001"
+}

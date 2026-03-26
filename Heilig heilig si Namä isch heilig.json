@@ -1,0 +1,22 @@
+{
+  "title": "Heilig heilig si Namä isch heilig",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Heilig, heilig, si Namä isch heilig.\nGnädig, gnädig, sis Handlä isch gnädig.\nHeilig, heilig, si Namä isch heilig.\nLöt üs äs Fescht ha zu sirä Ehr.",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Im Himmu u uf Ärdä,\nNiemär miäch, was är für üs het ta.\nIr Gägäwart u Zuäkunft,\nNiemär cha, was är für üs het ta",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-03",
+      "text": "Löt üs äs Fescht ha zu sirä Ehr.\nÄs isch Jesus, wo mir firä,\nÄr het üs vor Schuld befreit.\nÄs isch Jesus, wo mir ehrä,\nÄr isch Hoffnig, wo üs treit.",
+      "label": "Strophe 2"
+    }
+  ],
+  "id": "heilig-heilig-001"
+}

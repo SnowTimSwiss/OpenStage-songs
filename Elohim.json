@@ -1,0 +1,27 @@
+{
+  "title": "Elohim",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Elohim, Gott isch der Schöpfer.\nEl Schaddai, mächtig isch Gott.\nAdonai, ewige Herrscher.\nJahwe, Herr, lebendigs Wort.",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Starche Gott, ewige Vater.\nGrosse Held und Friedefürscht.\nGottes Sohn, du üse Retter.\nImmanuel, Gott isch mit üs.",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "slide-03",
+      "text": "Jesus, i dim Name hei mir alli Zyt der Sieg!\nEn andre Name, wo so mächtig isch, kenne mir nid.",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-04",
+      "text": "Jesus, nur dim Name ghört Abätig, Lob und Ehr.\nDu bisch König, du bisch üse Herr.",
+      "label": "Bridge"
+    }
+  ],
+  "id": "elohim-001"
+}

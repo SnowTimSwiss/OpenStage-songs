@@ -1,0 +1,27 @@
+{
+  "title": "Der alte Stall",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Die Fenster dicht. Die Türen zu.\nUnd keiner lässt sie rein.\nDa gehen zwei Menschen durch die Nacht,\nund sie sind so allein.",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "He, Leute, ich hab auch nicht viel!\nDoch seh' ich euer Leid.\nIch weiss, wo ihr heut schlafen könnt.\nUnd es ist gar nicht weit.",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "slide-03",
+      "text": "Am Feldweg steht ein alter Stall.\nDer alte Stall ist leer.\nEs könnt' doch sein, dass dieser Stall\nVielleicht was für euch wär!",
+      "label": "Strophe 3"
+    },
+    {
+      "id": "slide-04",
+      "text": "Ich nehme die Laterne mit.\nSeht nur, wie hell sie strahlt!\nSo kommt und folgt mir zu dem Stall\ndann findet ihr das Kind.",
+      "label": "Strophe 4"
+    }
+  ],
+  "id": "der-alte-stall-001"
+}

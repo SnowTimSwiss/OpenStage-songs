@@ -1,0 +1,22 @@
+{
+  "title": "Häb di, häb di",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Häb di, häb di Häb di fest am Herr,\nDenn sini Hand isch gross,\nEr lat di niä me los.",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Er tröschtet di,\nlaht di niä im Stich, d'rum säg i:",
+      "label": "Bridge"
+    },
+    {
+      "id": "slide-03",
+      "text": "Häb di, häb di Häb di fest am Herr!",
+      "label": "Refrain"
+    }
+  ],
+  "id": "haeb-di-haeb-di-001"
+}

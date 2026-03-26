@@ -1,0 +1,22 @@
+{
+  "title": "Du bisch Hoffnig",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Du bisch Hoffnig\nU mir si dini Bei\nU mir rennä\nFür diä wo nümme z hoffä hei",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Mach mi zum nä Gschänk vo dirä Liebi a di Wält\nLa mi Herr ä Fackle si, wo d Dunkuheit erhäut\nI bi bereit - nimm mi a dr Hand\nZämä setzä mir äs Zeichä vo dir Liebi i däm Land.",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-03",
+      "text": "Wiä ä Strom wo dür das Land u üsi Stedt u Dörfer fliesst\nU sech witer über d Gränzä i di ganzi Wält ergiesst.\nDu bisch Liebi\nU Liebi giessisch du uf mi\nSi söu wachsä\nU für aui sichtbar si.",
+      "label": "Strophe 2"
+    }
+  ],
+  "id": "du-bisch-hoffnig-001"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Aues isch anders",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Aues isch anders, nüt meh isch glich,\nda im babylonischä Riich. Da i dr Frömdi,\nfurt vo daheim, da simmer so ganz allei.",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Doch üsä Gloubä a lebändige Gott cha üs niämer nä!\nDoch üsä Gloubä a lebändige Gott wir üs Hoffnig\ngäh und Muet und Chraft!",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-03",
+      "text": "D'Freiheit verlore, aus heisi's gno.\nNid mau d'Näme hei si üs gla. Nämä für Götter:\nNebo u Bel, e Schand für ds Vouk Israel.",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "slide-04",
+      "text": "Mir si no jung,",
+      "label": "Strophe 3"
+    }
+  ],
+  "id": "aues-isch-anders-001"
+}

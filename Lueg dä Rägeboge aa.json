@@ -1,0 +1,32 @@
+{
+  "title": "Lueg dä Rägeboge aa",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Lueg dä Rägeboge a u fröi di ja fröi di,\nLueg dä Rägeboge a u fröi di dra",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-02",
+      "text": "Wüu Gott het zu dä Mönsche gseit we dir mi Boge gseht\nDe dänki zrugg a mis Verspräche woni öich ha gä",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-03",
+      "text": "Gott het z'Verspräche gä u gseit nieme söus so schlimm cho\nI staa zu öich zu jeder Zit dä Boge zeigts öich aa",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "slide-04",
+      "text": "Gott handlet immer nur gerächt är drückt nid d'Ouge zue\nDoch mit däm wo ihm wott vertroue faht är ganz nöi a",
+      "label": "Strophe 3"
+    },
+    {
+      "id": "slide-05",
+      "text": "Gott weiss was aues no wird cho drum muesch ke Angst meh ha\nGeborge wie i Noahs Arche b",
+      "label": "Strophe 4"
+    }
+  ],
+  "id": "lueg-dae-raegaboge-aa-001"
+}

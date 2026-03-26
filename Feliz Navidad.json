@@ -1,0 +1,17 @@
+{
+  "title": "Feliz Navidad",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Feliz Navidad,\nFeliz Navidad,\nFeliz Navidad, prospero ano y felicidad.",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-02",
+      "text": "I wanna wish you a Merry Christmas,\nI wanna wish you a Merry Christmas,\nI wanna wish you a Merry Christmas,\nFrom the bottom of my heart.",
+      "label": "Bridge"
+    }
+  ],
+  "id": "feliz-navidad-001"
+}

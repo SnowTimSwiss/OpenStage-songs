@@ -1,0 +1,22 @@
+{
+  "title": "Esel louf mit",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Esel lauf mit, Schritt für Schritt\nFeschte Tritt, Langsame Gang\nStock und Stei, Müedi Bei\nDe Weg uf Betlehem isch lang",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Gäl du weisch die jungi Frau\nwo du treisch treit es Chindli au\nTräg sie wiit träg sie süferli\nBald isch Ziit, Ihres Chind chund gli",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "slide-03",
+      "text": "Zu de Frau hed en Ängel gred\nLos du gnau, was Gott säge wett\nEue Sohn wird en König si\nSini Chrone hebd ewig hi",
+      "label": "Strophe 3"
+    }
+  ],
+  "id": "esel-louf-mit-001"
+}

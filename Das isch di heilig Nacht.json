@@ -1,0 +1,27 @@
+{
+  "title": "Das isch di heilig Nacht",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Das isch di heilig Nacht!\nHet üs dr Heiland bracht\nU us dä armä Mönschä\nRichi gmacht.",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Im Fäud u uf dr Ou,\nD Tierli verwachä o,\ngspürä das übergrossä\nWunder gnau.",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "slide-03",
+      "text": "Heit dir das o vernoh?\nLobed dr herrgott froh!\nÜsä Erlöser isch uf\nD Ärdä cho.",
+      "label": "Strophe 3"
+    },
+    {
+      "id": "slide-04",
+      "text": "Was isch das für ä Nacht!\nHet üs dr Heiland bracht\nU us dä armä Mönschä\nRichi gmacht.",
+      "label": "Refrain"
+    }
+  ],
+  "id": "das-isch-di-heilig-001"
+}

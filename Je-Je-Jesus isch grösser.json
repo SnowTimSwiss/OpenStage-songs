@@ -1,0 +1,27 @@
+{
+  "title": "Je-Je-Jesus isch grösser",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Je je Jesus isch grösser,\nJe je Jesus isch stärcher,\nJe je Jesus besser.",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Er isch der beschti Fründ wo's git,\nbeschti Fründ wo´s git,",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-03",
+      "text": "Nüt aber au gar nüt über trifft ihn,\nNüt aber au gar nüt isch ihm z'schwer\nNüt aber au gar nüt cha mir sini Liebi neh,\nNei, nei, nei!",
+      "label": "Bridge"
+    },
+    {
+      "id": "slide-04",
+      "text": "Nüt aber au gar nüt über rifft ihn.\nNüt aber au gar nüt isch ihm z'schwer\nNüt aber au gar nüt änderet dra: Jesus isch und blibt dr Gröscht!",
+      "label": "Strophe 2"
+    }
+  ],
+  "id": "je-je-jesus-isch-groesser-001"
+}

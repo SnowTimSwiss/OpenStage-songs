@@ -1,0 +1,17 @@
+{
+  "title": "Äs git ä Stau",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Das isch es Wunder, es Wunder, dass öpper zu üs luegt\nDas isch es Wunder, es Wunder.\nMir fassäs nid wie guet das tuät.",
+      "label": "Strophe"
+    },
+    {
+      "id": "slide-02",
+      "text": "Das isch es Wunder, es Wunder, das öpper zu üs luegt\nDas isch es Wunder, es Wunder\nMir fassäs nid wie guet das tuet.",
+      "label": "Refrain"
+    }
+  ],
+  "id": "aes-git-ae-stau-001"
+}

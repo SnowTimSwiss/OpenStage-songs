@@ -1,22 +1,22 @@
 {
   "title": "I chume vor di",
-  "artist": "CLZ Worship",
+  "artist": "",
   "slides": [
     {
-      "id": "c6d7e8f9-a0b1-2345-cdef-678901234578",
+      "id": "slide-01",
       "text": "Wüu du Richtig gisch im Zwyfel\nWüu du vorwärts geisch mit mir\nWüu dy Hand mi sicher leitet\nWüu i treit darf sy vo dir",
       "label": "Strophe 1"
     },
     {
-      "id": "c6d7e8f9-a0b1-2345-cdef-678901234579",
+      "id": "slide-02",
       "text": "Wüu di nie vo mir ewägdräisch\nWüu i aagno bi vo dir\nWüu dy Liebi mi het freigsetzt\nWüu du einzigartig bisch",
       "label": "Strophe 2"
     },
     {
-      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "id": "slide-03",
       "text": "Drum chum i vor di um di z pryse\nChume vor di u böige mi\nChume vor di\nWüu du alleini würdig bisch",
       "label": "Refrain"
     }
   ],
-  "id": "d6e7f8a9-b0c1-2345-def6-789012345689"
+  "id": "i-chume-vor-di-001"
 }

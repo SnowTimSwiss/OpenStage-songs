@@ -1,0 +1,22 @@
+{
+  "title": "Chünigä chömä u Chünigä gö",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Chünigä chömä u Chünigä gö. Doch Gott blibt\nChünig, regiert in Ewigkeit.\nHimmu, Ärdä, beidi mau vergöh.\nDoch Gott, är blibt, mit Sicherheit. 2x",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-02",
+      "text": "Für jedä Herrscher, jedes Riich, louft irgendwenn d'Zit ab. Ohni Usnahm, aui gli ch: Nur Gott allei kennt ihri Stung, wöu är bestimmt, wär geit, wär chunnt.",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-03",
+      "text": "Für jedä Mönsch, ob arm, ob riich, louft irgendwenn d'Zit ab. Ohni Usnahm, aui glich: Nur Gott allei kennt ihri Stund, wüu är bestimmt, wär geit, wär chunt.",
+      "label": "Strophe 2"
+    }
+  ],
+  "id": "chuenigae-choemae-001"
+}

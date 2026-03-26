@@ -1,0 +1,27 @@
+{
+  "title": "Wär bittet dä wird übercho",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Wär bittet dä wird übercho\nWär suecht dä wird finge\nWär achlopft däm wird Tür uftha",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "E Vater git syne Ching\nGärn aues wo si bruche\nWie vieu meh gisch du üs dr Heilig Geischt",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "slide-03",
+      "text": "Vater i danke dir\nVo dine Gabe läbe mir\nAues wo guet isch chunt vo dir\nDu bisch so guet zu mir",
+      "label": "Refrain 1"
+    },
+    {
+      "id": "slide-04",
+      "text": "Vater i pryse di\nWüeu du bisch immer da für mi\nLahsch dini Ching nie im Stich\nDu bisch so guet zu mir",
+      "label": "Refrain 2"
+    }
+  ],
+  "id": "waer-bittet-da-001"
+}

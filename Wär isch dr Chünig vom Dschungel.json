@@ -1,0 +1,22 @@
+{
+  "title": "Wär isch dr Chünig vom Dschungel",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Wär isch dr Chünig vom Dschungel? Hu Hu\nWär isch dr Chünig vom Meer? Babarabara\nWär isch dr Chünig vom Wäutauu?\nU wär isch dr Chünig vo mir? Ich sägders.",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "J - E - S - U - S! Jesus er ischs!",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-03",
+      "text": "Är isch dr Chünig vom Meer! Babarabara\nÄr isch dr Chünig vom Wäutauu!\nU är isch dr Chünig vo mir!",
+      "label": "Strophe 2"
+    }
+  ],
+  "id": "waer-isch-dr-chuenig-001"
+}

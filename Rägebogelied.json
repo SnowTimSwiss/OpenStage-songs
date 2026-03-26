@@ -1,0 +1,32 @@
+{
+  "title": "Rägebogelied",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Mini Farb und dini, das git zäme zwöi.\nWäres drü, vier, föif, sächs, siebe, wo gärn wete zäme blibe, gits a Rägebogä, wo sich lat la gseh, gits a Rägebogä wo sich lat la gse.",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-02",
+      "text": "Triffsch dä wo d'Wäut chly angers gseht, wär het rächt? Vielleicht sis ja bed.",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-03",
+      "text": "Dä Akzent tönt abverheit isch egau, s'geit drum was er seit.",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "slide-04",
+      "text": "Bisch im Insta nid ä Star bisch aus Mönsch glich wunderbar.",
+      "label": "Strophe 3"
+    },
+    {
+      "id": "slide-05",
+      "text": "Dä redd viu, di anderi nüt, s'isch okay, es git verschideni Lüt.",
+      "label": "Strophe 4"
+    }
+  ],
+  "id": "raegabogelied-001"
+}

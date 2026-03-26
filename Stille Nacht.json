@@ -1,0 +1,22 @@
+{
+  "title": "Stille Nacht",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Stille Nacht, heilige Nacht\nAlles schläft, einsam wacht\nNur das traute, hochheilige Paar\nHolder Knabe im lockigen Haar\nSchlaf in himmlischer Ruh!\nSchlaf in himmlischer Ruh!",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Stille Nacht, heilige Nacht\nHirten erst, kund gemacht\nDurch den Engel Halleluja\nTönt es laut von Fern und Nah\nChrist, der Retter ist da!\nChrist. der Retter ist da!",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "slide-03",
+      "text": "Stille Nacht, heilige Nacht\nGottes Sohn, o wie lacht\nLieb aus deinem göttlichen Mund\nDa uns schlägt die rettende Stund\nChrist, der Retter ist da!\nChrist, der Retter ist da!",
+      "label": "Strophe 3"
+    }
+  ],
+  "id": "stille-nacht-001"
+}

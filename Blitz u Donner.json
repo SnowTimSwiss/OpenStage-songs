@@ -1,0 +1,17 @@
+{
+  "title": "Blitz u Donner",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Hu- ghörsch du der Luft\nHu- ghörsch du der Luft\nJesus isch da, drum häb kei Angscht. Hu-",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-02",
+      "text": "Ui, ui, gseesch du der Blitz…\nBäng, Bäng ghörsch du dä Krach…\nHu- fischter isch d Nacht…\nMuu, muu gross isch die Chue…\nWu, wu bös isch dä Hung…",
+      "label": "Strophe"
+    }
+  ],
+  "id": "blitz-u-donner-001"
+}

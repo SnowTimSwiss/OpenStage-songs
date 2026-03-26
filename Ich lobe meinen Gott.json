@@ -3,15 +3,15 @@
   "artist": "",
   "slides": [
     {
-      "id": "019befc8-c792-4408-a0be-cc1dae93bb52",
-      "text": "Ich lobe meinen Gott\nDer aus der Tiefe mich holt\nIch lobe meinen Gott\nDer mich trägt und hält",
-      "label": "Strophe"
+      "id": "slide-01",
+      "text": "Ich lobe meinen Gott von ganzem Herzen und ich will erzählen von all seinen Wundern und singen seinen Namen",
+      "label": "Strophe 1"
     },
     {
-      "id": "1ea3515d-5843-493b-be8c-f5c2868630ad",
-      "text": "Ich lobe meinen Gott\nVon ganzem Herzen\nIch lobe meinen Gott\nIn Ewigkeit",
+      "id": "slide-02",
+      "text": "Ich lobe meinen Gott von ganzem Herzen ich freue mich und bin fröhlich Herr in dir Halleluja",
       "label": "Refrain"
     }
   ],
-  "id": "d8e9f0a1-b2c3-4567-def8-901234567801"
+  "id": "ich-lobe-meinen-gott-001"
 }

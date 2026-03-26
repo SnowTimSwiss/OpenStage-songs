@@ -1,0 +1,27 @@
+{
+  "title": "Ganz egau",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Üsä Gott cha üs befreiä us jederä Not.\nUnd är cha üs o beschützä vor em sicherä Tod.",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Doch ganz egau, ganz egau, ganz egau\nwas wird passierä, ob Gott üs rettet oder nid.\nKe andrä Gott, ke andrä Gott, ke andrä Gott\nwärdä mir ehrä, nur dä Gott wo ewig blibt.",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-03",
+      "text": "Du bisch zwar dr mächtig Chünig vom Land Babylon.\nAber Gott regiärt im Himmu uf em ewige Thron.",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "slide-04",
+      "text": "Und mir wärdä nid uf d'Chnöi gah, o nid u",
+      "label": "Bridge"
+    }
+  ],
+  "id": "ganz-egau-001"
+}

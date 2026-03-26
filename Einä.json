@@ -1,0 +1,22 @@
+{
+  "title": "Einä",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Einä cha häufä, einä cha rettä,\neinä het aues fescht im Griff.\nEinä cha schützä, einä cha tröschtä,\neinä lat üs gar niä im Stich!",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-02",
+      "text": "Mir gloubä a dä Gott, wo stercher isch,\n(viu stercher, viu stercher)\nstercher aus dr Tod.\nKe Macht vo derä Wäut, ke Gfahre u ke Not,\nnüt cha üs trennä vo däm Gott!",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-03",
+      "text": "Mir gloubä a dä Gott, wo Läbä schänkt,\n(nöis Läbä, nöis Läbä),\nLäbä, wo besteit. Mir wüssä g",
+      "label": "Strophe 2"
+    }
+  ],
+  "id": "einae-001"
+}

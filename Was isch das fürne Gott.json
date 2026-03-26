@@ -3,15 +3,35 @@
   "artist": "",
   "slides": [
     {
-      "id": "c3d4e5f6-a7b8-9012-cdef-345678901267",
-      "text": "Was isch das fürne Gott\nWo für mi stirbt\nWas isch das fürne Gott\nWo mi liebt",
-      "label": "Strophe"
+      "id": "slide-01",
+      "text": "I mire Angscht chumi zu dir\nDu bisch da\nI mire Truur verschdeisch du mi\nNimsch mi i Arm",
+      "label": "Strophe 1"
     },
     {
-      "id": "c3d4e5f6-a7b8-9012-cdef-345678901268",
-      "text": "Das isch mein Gott\nDas isch mein König\nDas isch mein Heiland\nJesus Christ",
+      "id": "slide-02",
+      "text": "Mini Sünd bringi vor di\nDu vergisch\nWas isch das fürne Gott",
       "label": "Refrain"
+    },
+    {
+      "id": "slide-03",
+      "text": "I der Dunkuheit bisch mis Liecht\nZeigsch mir dr Wäg\nWennn i nümm wyter xeh\nNimmsch du mi ar Hang",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "slide-04",
+      "text": "Jedi Antwort weisch du scho\nBevor i ha gfragt\nWas isch das fürne Gott",
+      "label": "Strophe 3"
+    },
+    {
+      "id": "slide-05",
+      "text": "Du weisch aus über mi\nU hesch mi doch so gärn\nMit Liebi formsch ,mis Härz\nNach dim Sinn",
+      "label": "Strophe 4"
+    },
+    {
+      "id": "slide-06",
+      "text": "Bi dir darf i so si\nWieni bi\nWas isch das fürne Gott",
+      "label": "Strophe 5"
     }
   ],
-  "id": "d3e4f5a6-b7c8-9012-def3-456789012378"
+  "id": "was-isch-das-fuerne-gott-001"
 }

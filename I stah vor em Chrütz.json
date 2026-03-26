@@ -1,22 +1,27 @@
 {
   "title": "I stah vor em Chrütz",
-  "artist": "Jackie Leuenberger",
+  "artist": "",
   "slides": [
     {
-      "id": "e7f8a9b0-c1d2-3456-ef78-901234567801",
-      "text": "I stah vor em Chrütz, betrachte dys Gsicht\nDu hesch dr Prys zalt, dass i frei cha si\nI stah vor em Chrütz, u alles isch klar\nDu hesch alles gä, für mi",
-      "label": "Verse 1"
+      "id": "slide-01",
+      "text": "I stah vor em Chrütz betrachte dys Gsicht\nDu hesch dr Prys zahlt, dass i frei cha si\nDu hesch alles gä. I cha nume nä\nDyni Wunde si Friede u Heilig für mi",
+      "label": "Strophe 1"
     },
     {
-      "id": "e7f8a9b0-c1d2-3456-ef78-901234567802",
-      "text": "I danke dir für dini Liebi\nI danke dir für dini Gnad\nDu hesch alles gä, für mi\nI stah vor em Chrütz",
-      "label": "Chorus"
+      "id": "slide-02",
+      "text": "Zuegä du bisch - nid immer z verstah Doch wie wett i Dir nid mis Härz häregä",
+      "label": "Bridge"
     },
     {
-      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567906",
-      "text": "I stah vor em Chrütz, u luege zu dir uf\nDu bisch my Heiland, my König\nI stah vor em Chrütz, u alles isch guet\nDu hesch alles gä, für mi",
-      "label": "Verse 2"
+      "id": "slide-03",
+      "text": "Hie bi dym Chrütz - chumm i zur Rueh\nBi dir bin i richtig, bi dir bin i gnue\nZmitts i mim Läbe - wartisch uf mi\nu fragsch nume nach mire Liebi für Di",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-04",
+      "text": "Bi dir find i Wort, mys tägliche Brot\nDä wo mit treit u mi füehrt jede Tag\nDu gsehsch viel me",
+      "label": "Strophe 2"
     }
   ],
-  "id": "f7a8b9c0-d1e2-3456-f789-012345678912"
+  "id": "i-stah-vor-em-chruetz-001"
 }

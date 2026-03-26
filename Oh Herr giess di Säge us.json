@@ -1,0 +1,22 @@
+{
+  "title": "Oh Herr giess di Säge us",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Oh Herr giess di Säge us giess di Säge us über üs 2x",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-02",
+      "text": "Gib mir Chraft di Wiue z'tue\nChum füehr du mi zur Rueh\nMit lääre Häng stani vor dir\nMi gröscht Wunsch dä bring i dir",
+      "label": "Strophe"
+    },
+    {
+      "id": "slide-03",
+      "text": "Giess di Säge us über üs",
+      "label": "Bridge"
+    }
+  ],
+  "id": "oh-herr-giess-di-001"
+}

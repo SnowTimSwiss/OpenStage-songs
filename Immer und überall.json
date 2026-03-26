@@ -1,0 +1,22 @@
+{
+  "title": "Immer und überall",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Immer und überall\nImmer und überall\nImmer bin ig da!\nVom Afang bis zum Ändi\nWachet Gott ständig\nÜber mir und über dir.",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Ja, är hets so versproche,\nHet niä sis Wort brochä\nGloubs mir doch\nIg bin bi dir!",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-03",
+      "text": "Vom Afang bis zum Ändi\nWachet Gott ständig\nÜber mir und über dir.",
+      "label": "Strophe 2"
+    }
+  ],
+  "id": "immer-und-ueberall-001"
+}

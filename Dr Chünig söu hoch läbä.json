@@ -1,0 +1,22 @@
+{
+  "title": "Dr Chünig söu hoch läbä",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Dr Chünig söu hoch läbä, lang läbä, trinket uf üsä\nChünig, bringed no chli Wii.\nDr Chünig söu hoch läbä, lang läbä!\nHöööö - proscht! Schänkät i.",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-02",
+      "text": "Wiä diä feschtä, wiä diä fiirä,\ndänke, si chöii nid verlürä.\nGötzä, tot, us Stei u Houz\nbättä si a u si so stouz!",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-03",
+      "text": "Isch das rächt, wo diä da mache?\nGott verspottä, Gott uslachä.\nChunnt das guät, lat Gott das zuä?",
+      "label": "Strophe 2"
+    }
+  ],
+  "id": "dr-chuenig-soeu-001"
+}

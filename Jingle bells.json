@@ -1,0 +1,22 @@
+{
+  "title": "Jingle bells",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Jingle bells\nJingle bells, jingle bells, alli stygen y.\nHütt geits uf ne Schlittefahrt und alli sy derby.\nJingle bells, jingle bells, gäll, du nimmsch üs mit.\nSo ne wildi Schlittefahrt isch ds Schönschte, won es git.",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-02",
+      "text": "Mal geit es bärguuf, und mal geit es bärgab.\nHäb di guet und häb dr Schnuuf, süsch gheisch uf ds Mal no drab.\nDr Schlitte hindedrann u d Rössli stramm drvor,\nschön isch so nes Schlittegspann, drum singe mir im Chor: Hei!",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-03",
+      "text": "Geit das wi dr Blitz dür Wyse, Wald und Fäud.\nLandschaft isch so wunderschön, wenn si under Schnee verschnäit.\nD'Glockä lütä, d'Sunne schint, dr Wind isch eiskalt här.\\nD'Heimet isch so wunderschön, drum singe mir no meh: Hei!",
+      "label": "Strophe 2"
+    }
+  ],
+  "id": "jingle-bells-001"
+}

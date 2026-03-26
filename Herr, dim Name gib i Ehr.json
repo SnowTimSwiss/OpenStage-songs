@@ -1,0 +1,22 @@
+{
+  "title": "Herr, dim Name gib i Ehr",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Herr, dim Name gib i Ehr.\nHerr, i liebe's, für di ds singe.\nDanke, dass du i mir läbsch.\nDu bisch cho um Rettig ds bringe.",
+      "label": "Strophe"
+    },
+    {
+      "id": "slide-02",
+      "text": "Du hesch der Himmu verla, di Wäg üs zeigt.\nHesch am Chrüz dis Läbe gla, üs vor Schuld befreit.\nUnd vom Chrüz bisch du ids Grab doch vom Grab id\nHerrlechkeit.",
+      "label": "Bridge"
+    },
+    {
+      "id": "slide-03",
+      "text": "Herr, dim Nam gib i Ehr",
+      "label": "Refrain"
+    }
+  ],
+  "id": "herr-dim-name-gib-i-ehr-001"
+}

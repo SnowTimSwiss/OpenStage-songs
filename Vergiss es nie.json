@@ -1,0 +1,22 @@
+{
+  "title": "Vergiss es nie",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Vergiss es niä, das du läbsch isch nid di eigäti Idee, und das du chasch schnufä, ke Entschluss vo dir.\nVergiss es niä, dass du , läbsch isch vom'nä angärä d'Idee, das du chasch schnufä, isch sis Gschänk a di.",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Vergiss es niä,so näs Gsicht het niemer süsch uf derä Wäut, so schöni Ougä hesch älei nur du.\nVergiss es niä, du bisch riich, egau ob mit, ob ohni Gäut, wüu du chasch läbä, niemer läbt wiä du.",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "slide-03",
+      "text": "Du bisch erwünscht, kes chind vom Zuäfau, kes Produkt vo dä Natur, ganz egau ob du dis Lä",
+      "label": "Bridge"
+    }
+  ],
+  "id": "vergiss-es-nie-001"
+}

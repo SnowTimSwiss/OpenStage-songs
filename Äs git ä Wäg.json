@@ -1,0 +1,27 @@
+{
+  "title": "Äs git ä Wäg",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Äs git ä Wäg, ä Antwort, ä Müglächkeit.\nÄs git ä Wäg zum nöiä Paradies!",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Cha nid verstah, so gross isch d Hungersnot.\nCha nid verstah, tagtägläch ghörsch vom Tod.",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "slide-03",
+      "text": "So luägät doch das Liidä a\nGit's niemmär wo da häufä cha?\nCha nid verstah, wo isch dr liebi Gott?",
+      "label": "Bridge"
+    },
+    {
+      "id": "slide-04",
+      "text": "Verlornigs Paradies aus verloä aus verbi?\nVerlornigs Paradies isch's verbi?\nWürkläch verbi?",
+      "label": "Refrain"
+    }
+  ],
+  "id": "aes-git-a-waeg-001"
+}

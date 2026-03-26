@@ -1,0 +1,27 @@
+{
+  "title": "Du bringsch mi zum Lache",
+  "artist": "Albert Frey",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Du bringsch mi zum Lache,\nmachsch, dass mis Härz singt.\nDu bringsch mi zum Tanze,\nmini Seu die schwingt.\nI schnufe uf i dire Gägewart.\nHerr, du allei",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "gisch mir Fröid, wo vo inne chunnt,\nFröid, wo mir niemer nimmt.\nHerr, du machsch mis Läbe häu.\nMit em Liecht vo dir Liebi.",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-03",
+      "text": "Öppis i mir\nzeigt mir, dass es di würklech git.\nI bi ganz sicher,\ndass du läbsch, mi kennsch u mi liebsch.",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "slide-04",
+      "text": "Öppis i mir\nsägt mir, dass du näbä mir bisch.\nI darf erfahre,\nwos heisst: Du bisch für mi da.",
+      "label": "Strophe 3"
+    }
+  ],
+  "id": "du-bringsch-mi-001"
+}

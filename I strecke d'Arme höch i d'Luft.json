@@ -1,0 +1,27 @@
+{
+  "title": "I strecke d'Arme höch i d'Luft",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "I strecke d'Arme höch i d'Luft. I chnöile abe, rüefe lut:",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Hey, hey! Hey, hey, hey! Gott isch so guet! Gott isch so guet!",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-03",
+      "text": "Dräye mi im Chreis mit Schwung. I gumpe ume. Äs mach bumm.",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "slide-04",
+      "text": "Gsehni ou komisch us bim Tanze u bim Tobe. I tue aues nume für Gott. I tues für ihn! Drum wott ig ihn mit mim ganze Körper lobe, wiu er mi gärn het u aues für mi tuet.",
+      "label": "Bridge"
+    }
+  ],
+  "id": "i-strecke-d-arme-001"
+}

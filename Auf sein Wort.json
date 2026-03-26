@@ -1,0 +1,27 @@
+{
+  "title": "Auf sein Wort",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Auf sein Wort,\nAuf sein Wort\nKann ich sicher baun,\nKann ich sicher baun",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Ohne sein Wort,\nOhne sein Wort\nWerd ich umgehaun,\nWert ich umgehaun.",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "slide-03",
+      "text": "Ich stehe fest auf dem Fels,\nIch stehe fest auf dem Fels,\nIch stehe Fest auf dem Fels,\nAuf Gottes Wort.",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-04",
+      "text": "Ich will das tun was er sagt,\nIch will das tun was er sagt,\nIch will das tun was er sagt,\nWas sein Wort sagt.",
+      "label": "Bridge"
+    }
+  ],
+  "id": "auf-sein-wort-001"
+}

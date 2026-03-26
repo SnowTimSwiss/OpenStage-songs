@@ -1,0 +1,27 @@
+{
+  "title": "Herr dis Liecht zeigt mir dr Wäg",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Herr dis Liecht zeigt mir dr Wäg, i darf uf di hoffä.\nI darf immer zu dir cho, dini Tür isch offä.",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Dini Liebi schänksch du mir, o i dunklä Stundä,\nDenn am Chrütz hesch du für mi, aues überwundä.",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "slide-03",
+      "text": "Herr du gisch üs jedä Tag, Chraft u Freud zum Läbä,\nU du füesch mi a dr Hand u gisch mir di Sägä",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-04",
+      "text": "Herr du lasch mi nie älei, du bisch immer bi mir.\nI darf immer bi dir si, i vertrouä dir.",
+      "label": "Bridge"
+    }
+  ],
+  "id": "herr-dis-liecht-001"
+}

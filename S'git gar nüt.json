@@ -1,0 +1,22 @@
+{
+  "title": "S'git gar nüt",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "S'git gar nüt, nüt, nüt wo so, so, so guet isch,\nwie du, min Gott! 2x",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-02",
+      "text": "S'git gar nüt, und gar niemert wo so guet isch,\nwie du! 2x",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-03",
+      "text": "Strophe: so treu isch\nStrophe: so starch isch\nStrophe: so frei macht",
+      "label": "Weitere Strophen"
+    }
+  ],
+  "id": "s-git-gar-nuet-001"
+}

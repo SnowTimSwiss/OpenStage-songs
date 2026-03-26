@@ -1,0 +1,32 @@
+{
+  "title": "Wäuelied",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Mir fire Jesus, Jesus är isch där King, fröit sich a mir, wenni\nlache u singä!",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Uo o! Ä Wäuä für di!",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-03",
+      "text": "Mir chlatschä id Häng u singe aui mitenang:\nDär gröschti isch Jesus den är het dOberhang",
+      "label": "Bridge 1"
+    },
+    {
+      "id": "slide-04",
+      "text": "Eis und eis git zwöi u mir stampfä mitä Bei,\nschüttle aues ab und löt d Sorgä daheim!",
+      "label": "Bridge 2"
+    },
+    {
+      "id": "slide-05",
+      "text": "Eis, drü, zwöi, mir gö aui id Chnöi. Mir gäbä\nüs d Händ und mir lache derbii.",
+      "label": "Bridge 3"
+    }
+  ],
+  "id": "wäuelied-001"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Ich erhebe dich Herr",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Ich erhebe dich, Herr ich erhebe dich\nDie Schöpfung ruft dir zu: So herrlich bist nur du.\nIch erhebe dich, Herr ich erhebe dich.\nMein Jesus, ich erhebe dich!",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Friedefürst, Wunderrat, gnadenvoll, Gottes Sohn.\nHerr der Herrn, starker Held, König und Gott von Ewigkeit.\nFriedefürst",
+      "label": "Refrain"
+    }
+  ],
+  "id": "ich-erhebe-dich-001"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "S gröste Gschänk",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "S gröschte Gschänk vo de Wienacht\nliit nöd underem Chrischtbaum da.\nEs isch nöd iipackt i Papier,\nkei Bändel und keis Chärtli dra.",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Es häts niemert gchauft und nimert gmacht,\ns isch gliich s Gröscht vo de Wienacht.",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-03",
+      "text": "S gröschte Gschänk vo de Wienacht\nGhört nöd öpperem elei\nEs isch au nöd nur a eim Ort\nEs isch bi allne Lüt dihei",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "slide-04",
+      "text": "Ja s gröschte Gschänk hät Gtt öis gmacht\nA de erschte Wienacht\nDe Jesus hät er zu öis glaa\nDass mir chönd Fröid und Friede haa.",
+      "label": "Strophe 3"
+    }
+  ],
+  "id": "s-groeste-gschaenk-001"
+}

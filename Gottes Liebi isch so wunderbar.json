@@ -1,0 +1,17 @@
+{
+  "title": "Gottes Liebi isch so wunderbar",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "So höch, mä cha nid drüber gah.\nSo teuf, mä cha nid drunger gah.\nSo wit, mä cha nid drumumä gah.\nSo wunderbar!",
+      "label": "Strophe"
+    },
+    {
+      "id": "slide-02",
+      "text": "Gottes Liebi isch so wunderbar,\nGottes Liebi isch so wunderbar,\nGottes Liebi isch so wunderbar,\nSo wunderbar:\nGottes Liebi isch so wunderbar",
+      "label": "Refrain"
+    }
+  ],
+  "id": "gottes-liebi-001"
+}

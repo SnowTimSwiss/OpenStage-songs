@@ -1,0 +1,22 @@
+{
+  "title": "Herr, mir danke dir für ds Ässe",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Herr, mir danke dir für ds Ässe, dass du üs so gsägnet hesch.\nMir wie nie, gar nie vergässe, dass du üse Schöpfer bisch.",
+      "label": "Strophe"
+    },
+    {
+      "id": "slide-02",
+      "text": "Halleluja du gisch üs Food. Halleluja! Du bisch so guet.\nHalleluja! Mir lobe di! Halleluja, danke, Amen!",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-03",
+      "text": "Amen! Amen!\nHalleluja, danke, Amen!",
+      "label": "Amen"
+    }
+  ],
+  "id": "herr-mir-danke-001"
+}

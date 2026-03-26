@@ -1,0 +1,22 @@
+{
+  "title": "Fröhlechi Wiehnacht allersyts",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Liecht i dunkle Zyte, zündet aunä gnuä.\nWär dym Wiehnachtsliecht vertrout,\nChunnt by dir zur Rueh.",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Dert, wo mir chöi teile wie mir s tuä für di, Mönsche chöi ou fürenand\nWienachtsliechter si.",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "slide-03",
+      "text": "Fröhlechi Wiehnacht allersyts\nFyre brucht e Grund und dä Grund gits.\nWiehnachtsliecht, Wiehnachtstön,\nhimmelhöch und ärdeschön.",
+      "label": "Refrain"
+    }
+  ],
+  "id": "froehlechi-wiehnacht-001"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Aui Chinder uf dr Wäut",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Aui Chinder uf dr Wäut,\nOb si schwarz si oder gäub,\nJedes einzelnä het är gärn.\nAui Vögu, aui Fisch\nU o ds Ässä ufem Tisch\nU i säuber bi o sis Wärk.",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Aui Bärgä het är gmacht\nU d'Bluämä i der Pracht,\nDer Himmu isch o sis Wärk!",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "slide-03",
+      "text": "Mi Gott isch so gross, so sterch u so mächtig,\ngar nüt isch unmüglech mim Gott!\nMi Gott isch so gross",
+      "label": "Refrain"
+    }
+  ],
+  "id": "aui-chinder-001"
+}

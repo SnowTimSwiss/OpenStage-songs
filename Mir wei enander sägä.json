@@ -1,0 +1,32 @@
+{
+  "title": "Mir wei enander sägä",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Mir wei enander sägä: dr Herr chunt gli! Zämä wei mir ihn lobä.\n( 2 mal )\nZämä….",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Mir wei enander sägä: dr Herr isch tröi! Zämä wei mir ihn lobä.\n( 2 mal )\nZämä….",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "slide-03",
+      "text": "Mir wei enander sägä: dr Herr isch starch! Zämä wei mir ihn lobä.\n( 2 mal )\nZämä….",
+      "label": "Strophe 3"
+    },
+    {
+      "id": "slide-04",
+      "text": "Zämä wei mir ihn lobä u prisä, Halleluja!\nZämä wei mir ihn lobä u prisä, Halleluja!",
+      "label": "Bridge"
+    },
+    {
+      "id": "slide-05",
+      "text": "Mir wei enander sägä: dr Herr isch guet! Zämä wei mir ihn lobä.\n(2 mal )",
+      "label": "Strophe 4"
+    }
+  ],
+  "id": "mir-wei-enander-001"
+}

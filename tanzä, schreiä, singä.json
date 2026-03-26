@@ -1,0 +1,22 @@
+{
+  "title": "tanzä, schreiä, singä",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Ja i weiss, dass Gott mi liebt,\nDrum tanz i wiud umänang.\nJa i weiss, dass Gott mi liebt,\nDrum schrei i richtig lut!",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Ja i weiss, dass Gott mi liebt,\nDrum sing i eifach schön\nJa i tanz u schrei u sing",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "slide-03",
+      "text": "Mach mit u tanz,\nMach mit u schrei, yeah, yeah, yeah\nMach mit u sing, na na na na…\nMach mit u tanz u schrei u sing",
+      "label": "Refrain"
+    }
+  ],
+  "id": "tanzae-schreiae-singae-001"
+}

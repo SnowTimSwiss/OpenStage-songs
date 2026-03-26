@@ -1,0 +1,22 @@
+{
+  "title": "Du bist mein Zufluchtsort",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Du bist mein Zufluchtsort\nIch berge mich in deine Hand,\nDenn du schützt mich, Herr.",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Wann immer mich Angst befällt,\nTraue ich auf dich.\nJa ich trau' auf dich,",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "slide-03",
+      "text": "und ich sage:\" Ich bin stark in der Kraft meines Herrn\"",
+      "label": "Refrain"
+    }
+  ],
+  "id": "du-bist-mein-zufluchtsort-001"
+}

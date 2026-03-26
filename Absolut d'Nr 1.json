@@ -1,0 +1,22 @@
+{
+  "title": "Absolut d'Nr 1",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Absolut d'Nummer 1 söllsch du sii i mim Läbe.",
+      "label": "Strophe"
+    },
+    {
+      "id": "slide-02",
+      "text": "J - E - S - U und S, Jesus, du bisch de Gröscht!",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-03",
+      "text": "Du hesch de Wäg frei gmacht,\nund hesch de Himmel bracht.\nDu hesch dis Läbe gäh.\nI wott's als Gschänk anäh. Näh, näh, näh!",
+      "label": "Bridge"
+    }
+  ],
+  "id": "absolut-d-nr-1-001"
+}

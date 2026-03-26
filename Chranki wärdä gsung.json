@@ -1,0 +1,22 @@
+{
+  "title": "Chranki wärdä gsung",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Chranki wärdä gsung\nBlindi chöi gseh\nLahmi stöh uf d'Bei\nU di Totä wachä uf",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Kennsch du dä Maa\nWo aui sägä\nWär isch dä Maa\nWo üs versteht",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-03",
+      "text": "Är isch für ds Volk\nÄ grossä Sägä\nÄr weiss genau\nWis mit üs steit",
+      "label": "Strophe 2"
+    }
+  ],
+  "id": "chranki-waerda-001"
+}

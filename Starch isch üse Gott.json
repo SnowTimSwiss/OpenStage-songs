@@ -1,0 +1,22 @@
+{
+  "title": "Starch isch üse Gott",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Starch, starch, isch üse Gott, viu stercher aus aues wos git.\nStarch, starch, isch üse Gott, viu stercher aus aues wos git.",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-02",
+      "text": "Elohim, Adonai, El Shadai.\nElohim, Adonai, mächtig isch Gott.",
+      "label": "Bridge"
+    },
+    {
+      "id": "slide-03",
+      "text": "Gross isch üse Gott;\nGuet isch üse Gott;\nTreu isch üse Gott.",
+      "label": "Strophen"
+    }
+  ],
+  "id": "starch-isch-uese-gott-001"
+}

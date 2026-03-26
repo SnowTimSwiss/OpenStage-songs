@@ -1,0 +1,27 @@
+{
+  "title": "I sueche di Herr",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "I sueche di, Herr, chumm zeig du di mir\nI cha di nid gseh u doch bisch bi mir\nI weiss, dass di git\nU uf Schritt u Tritt bisch du näbä mir\nHerr, i danke dir",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Herr vo ganzem Härzä möcht i di lobe\nU vo ganzem Härzä bätt i di a\nU i möchte no töyffer, no so viu töyffer\nGmeinschaft mit dir ha",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-03",
+      "text": "Herr, vo ganzem Härzä möchte i di lobä\nU vo ganzem Härzä bätt i di a\nU i möchte no töyffer, no viu töyffer\nTöyffer, no viu töyffer Gmeinschaft mit dir ha",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-04",
+      "text": "I chume zu dir, grad so wini bi\nMit all myre Lascht u allem was i ha\nI darf vor di cho\nU du nimmisch mi so wie i bi\nHerr, i danke dir",
+      "label": "Strophe 2"
+    }
+  ],
+  "id": "i-sueche-di-herr-001"
+}

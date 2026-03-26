@@ -1,0 +1,22 @@
+{
+  "title": "Oh Du fröhliche",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "O du fröhliche, o du selige,\ngnadenbringende Weihnachtszeit!\nWelt ging verloren, Christ ist geboren:\nFreue, freue dich, o Christenheit!",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Himmlische Heere jauchzen Dir Ehre:\nFreue, freue dich, o Christenheit!",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-03",
+      "text": "Christ ist erschienen, uns zu versühnen:\nFreue, freue dich, o Christenheit!",
+      "label": "Strophe 2"
+    }
+  ],
+  "id": "oh-du-froehliche-001"
+}

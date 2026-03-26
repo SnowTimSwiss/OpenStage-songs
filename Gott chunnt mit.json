@@ -1,0 +1,22 @@
+{
+  "title": "Gott chunnt mit",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Itz isch Zyt, mir gö hei. Niemer geit allei.",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Tag u Nacht, furt, deiheim. Niemer geit allei.",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "slide-03",
+      "text": "Gott chunnt mit, Schritt für Schritt, nach und wiit u jederzyt.",
+      "label": "Refrain"
+    }
+  ],
+  "id": "gott-chunnt-mit-001"
+}

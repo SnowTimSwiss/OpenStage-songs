@@ -1,0 +1,27 @@
+{
+  "title": "Wenn i dra dänkä",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Wenn i dra dänke, dass du für mi gstorbe bisch,\nWotti niemeh vo dir wäg wäg wäg. 2x",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Nei, nei, nie, nie… 2x\nwotti niemeh vo dir wäg wäg wäg. 2x",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-03",
+      "text": "Wenn i dra dänkä, dass du uferstande bisch,\nwotti niemeh vo dir wäg wäg wäg. 2x",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "slide-04",
+      "text": "Wenn i dra dänkä, dass du wider umechunnsch,\nwotti niemeh vo dir wäg wäg wäg. 2x",
+      "label": "Strophe 3"
+    }
+  ],
+  "id": "wenn-i-dra-daenkae-001"
+}

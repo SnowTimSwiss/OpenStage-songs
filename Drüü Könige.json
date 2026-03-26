@@ -1,0 +1,17 @@
+{
+  "title": "Drüü Könige",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Tatarataa! Drüü Königä si da.\nTiterititii! Wo wie diä drü äch hi?\nTüterütütüü! Was bringe äch diä edle\nHerrä da herä zum Stall?",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Tatarataa! A d Tüüre chlopfeds aa.\nTiterititii! Ganz tuig trätäs ii.\nTüterütütüü! Was bringe äch diä edle\nHerrä da herä zum Stall?",
+      "label": "Strophe 2"
+    }
+  ],
+  "id": "druue-koenige-001"
+}

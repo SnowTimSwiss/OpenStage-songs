@@ -1,0 +1,27 @@
+{
+  "title": "Xmas Time",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Mir fire hüt es grosses Fescht\nes Chind isch zue nis cho\nso nimm aus Gschänk di Melodie\ndas Lied vo üs für di",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Das isch d Wiehnachtszyt\ndas isch d Wiehnachtszyt\ndenn o mir chöi gseh\när git immer Hoffnig üs\nuuh das isch Wiehnachtszyt",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-03",
+      "text": "Für immer Fride uf der Wäut\ndas wünsche mir so sehr\näs Liecht wo schint\nmir stah jetz zäme\ndu weisch jetz isch es Zyt",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "slide-04",
+      "text": "Aui Ouge vo de Chinder lüchte\nvor em Wiehnachtsboum\ngsehsch o du die Fröid\nsi schint so hell",
+      "label": "Bridge"
+    }
+  ],
+  "id": "xmas-time-001"
+}

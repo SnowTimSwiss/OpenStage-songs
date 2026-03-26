@@ -1,0 +1,22 @@
+{
+  "title": "Simons Liechter",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Der Hirt Simon het es Liecht, s`git im häu uf sire Suechi\nnachem chline wisse Schaf, wo verlore gange isch",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-02",
+      "text": "Los guet ghörsches du oder gsesches\nwo nur chönnt das Tierli sii\nDer Hirt Simon het es Liecht, s`git im\nhäu i sire Not",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-03",
+      "text": "U der Bättler seit: i ha ds Schaf nid gseh,\nnume Hunger u grossi Not.\nO der Bättler het iz es Liecht, s`git im häu i sire Not",
+      "label": "Strophe 2"
+    }
+  ],
+  "id": "simons-liechter-001"
+}

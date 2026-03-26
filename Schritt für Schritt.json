@@ -1,0 +1,22 @@
+{
+  "title": "Schritt für Schritt",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Schritt für Schritt gö mir vorwärts\nMeh u meh Land näme mer i\nJedes Gebät ä mächtigi Waffe\nSatans Feschtige stürzen i und i und i und i",
+      "label": "Strophe"
+    },
+    {
+      "id": "slide-02",
+      "text": "Mir wei ne gseh\nMir wei ne gseh\nMir wei Jesus über auem gseh\nMir wei Jesus über auem gseh",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-03",
+      "text": "Äs Banner wo steit i üsem Land\nDass aui erkenne u verstöh\nÄr isch der Wäg zum Himmu\nMir wei Jesus über auem gseh",
+      "label": "Bridge"
+    }
+  ],
+  "id": "schritt-fuer-schritt-001"
+}

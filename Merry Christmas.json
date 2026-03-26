@@ -1,0 +1,22 @@
+{
+  "title": "Merry Christmas",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Gsesch es Liecht, dert im Wald,\ns'isch es Glitzerlüchte überall,\nChinderouge strahle o.\nZyt für Gschichte, Güezi bache,\nsogar enander Gschänkli mache\ndas verzouberet üs so.",
+      "label": "Strophe"
+    },
+    {
+      "id": "slide-02",
+      "text": "s'schmöckt nach Gwürz u feine Düft,\nCherzeschyn erwärmt üs d'Seel.\nD'Ouge zue, ig tröime vo der schöne Zyt,\nder Ängel singt Halleluja, ds Chrischtchind isch gli da",
+      "label": "Bridge"
+    },
+    {
+      "id": "slide-03",
+      "text": "Wish you all a merry Christmas,\ni wish you all a great new year.\nHope you save a thought for something that ist true,\ni wish",
+      "label": "Refrain"
+    }
+  ],
+  "id": "merry-christmas-001"
+}

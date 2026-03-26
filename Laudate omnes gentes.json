@@ -1,0 +1,17 @@
+{
+  "title": "Laudate omnes gentes",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Laudate omnes gentes,\nlaudate Dominum.\nLaudate omnes gentes,\nlaudate Dominum.",
+      "label": "Latein"
+    },
+    {
+      "id": "slide-02",
+      "text": "Lobsingt, ihr Völker alle,\nlobsingt und preist den Herrn.\nLobsingt, ihr Völker alle,\nlobsingt und preist den Herrn.",
+      "label": "Deutsch"
+    }
+  ],
+  "id": "laudate-omnes-001"
+}

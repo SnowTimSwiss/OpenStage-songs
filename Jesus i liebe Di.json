@@ -1,0 +1,27 @@
+{
+  "title": "Jesus i liebe Di",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Jesus i liebe Di\nJesus i bruche Di\nchum u füu mis Härz\nnöi mit Dim Geischt",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Jesus vergib Du mir\nnimm Du d'Schuld vo mir\nchum u mach mis Härz\nrein dür Di Geischt",
+      "label": "Strophe 2"
+    },
+    {
+      "id": "slide-03",
+      "text": "Vater blib Du immer bi mir\nhäb mi fescht i Dine Arme\nfüer mi der richtig Wäg\nu begleit Du mi",
+      "label": "Bridge"
+    },
+    {
+      "id": "slide-04",
+      "text": "I bruche Di\nI liebe Di",
+      "label": "Refrain"
+    }
+  ],
+  "id": "jesus-i-liebe-di-001"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Sandyland",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Bou doch dis Huus nid uf sandige Grund.\nLos, bou's doch nid z'nach ads Ufer.\nEs cha ja sy, dasses guet usgseht,\naber bringe tuet's das nid:",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Du bousch nämlech so nes Huus nomou.",
+      "label": "Bridge"
+    },
+    {
+      "id": "slide-03",
+      "text": "Du bousch dis Huus doch gschider uf e Fels.\nBou ds Fundamänt sorgfältig amne sichre Ort.\nDe cha's stürme wie's nur wott,\nDoch der Friede Gottes blybt da.",
+      "label": "Refrain"
+    }
+  ],
+  "id": "sandyland-001"
+}

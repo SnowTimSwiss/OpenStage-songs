@@ -1,0 +1,17 @@
+{
+  "title": "Bald, bald isch Wiehnacht",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Bald, bald isch Wiehnacht.\nHeilig Abe steiht vor dr Tür,\nes chlopfet, es chlopfet a bi dir u bi mir.",
+      "label": "Strophe"
+    },
+    {
+      "id": "slide-02",
+      "text": "Es chlopfet.",
+      "label": "Refrain"
+    }
+  ],
+  "id": "bald-bald-isch-wiehnacht-001"
+}

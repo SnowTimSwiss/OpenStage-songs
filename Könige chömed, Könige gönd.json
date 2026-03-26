@@ -1,0 +1,22 @@
+{
+  "title": "Könige chömed, Könige gönd",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Könige chömed und Könige gönd.\nDoch Gott blibt König, regiert in Ewigkeit.\nHimmel, Erde, beidi mal vergö.\nDoch Gott, er blibt mit Sicherheit.",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-02",
+      "text": "Für jedä Herrscher, jedes Rich,\nLouft irgendwenn d Zit ab.\nOhni Usnam, alli glich: Nur\nGott ellei kennt ihri Stund,\ndenn är bestimmt,\nwär geit, wär chunnt.",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-03",
+      "text": "Für jedä Mönsch, ob arm, ob rich,\nLouft irgendwenn d Zit ab.\nOhni Usnam, alli glich: Nur\nGott ellei kennt ihri Stund,\ndenn är bestimmt,\nwär geit, wär chunnt.",
+      "label": "Strophe 2"
+    }
+  ],
+  "id": "koenige-choemed-001"
+}

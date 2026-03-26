@@ -1,0 +1,22 @@
+{
+  "title": "Gott vo dr Wisheit",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Gott vo der Wisheit, (Gott vo dr Wisheit)\nmir wie di prisä (mir wei di prisä)\nin Ewigkeit, in Ewigkeit.\nHerr vo dä Ziitä (Herr vo dä Ziitä),\nmir wie di rüämä, (mir wie di rüämä)\ndini Herrlächkeit, dini Herrlächkeit.",
+      "label": "Refrain"
+    },
+    {
+      "id": "slide-02",
+      "text": "Ke Ort, kes Gheimnis, ke Gedankä, wo du nid kennsch.\nKe Wäg, ke Lösig, kes Versteck git's, wo du nid findsch.",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-03",
+      "text": "Kes Wort, ke Süfzer, kes Geb",
+      "label": "Strophe 2"
+    }
+  ],
+  "id": "gott-vo-dr-wisheit-001"
+}

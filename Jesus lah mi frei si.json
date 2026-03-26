@@ -1,0 +1,22 @@
+{
+  "title": "Jesus lah mi frei si",
+  "artist": "",
+  "slides": [
+    {
+      "id": "slide-01",
+      "text": "Jesus, lah mi frei si, befrei Du mis Härz\nLah mi flüge wie en Adler, treit vo Dim Wind.\nZeig mir de Wäg zu Dir, de Wäg zu dim Härz",
+      "label": "Strophe 1"
+    },
+    {
+      "id": "slide-02",
+      "text": "Dem Ort vo de Liebi, dem Ort vo Dim Fride,\ndem Ort vo de Freiheit für mi.",
+      "label": "Bridge"
+    },
+    {
+      "id": "slide-03",
+      "text": "Jesus regier in mir,\nDu bisch alles was i ha.\nNimm mi a der Hand\nI wott mit Dir vorwärts gah.",
+      "label": "Refrain"
+    }
+  ],
+  "id": "jesus-lah-mi-frei-si-001"
+}
